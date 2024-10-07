@@ -1,0 +1,27 @@
+{
+  "name": "events",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "app": "node app.js",
+    "dev-async" : "node server/async.js",
+    "dev-emit" : "node server/emit.js",
+
+    "emit": "node apps/emmitapp.js ",
+    "async": "node apps/asyncapp.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "events": "^3.3.0",
+    "express": "^4.21.0",
+    "puppeteer": "^23.3.0",
+    "puppeteer-core": "^23.3.0",
+    "readline": "^1.3.0"
+  }
+}

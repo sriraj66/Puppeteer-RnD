@@ -1,0 +1,17 @@
+apps/
+node_modules/
+csv/
+env/
+lib/
+serverlogs/
+tests/
+zip/
+.dockerignore
+locustfile.py
+
+Dockerfile
+docker-compose.yaml
+__pycache__/
+app.js
+temp/
+**.csv

@@ -1,0 +1,44 @@
+
+
+services:
+  app1:
+    build: .
+    ports:
+      - "3000:3004"
+    command: "npm run dev-async"
+    restart: always
+    tmpfs:
+      - /app/temp:size=700m
+    shm_size: 3.5g
+
+    networks:
+      - app-network
+    volumes:
+        - globalCache:/app/server/cache
+
+  app2:
+    build: .
+    ports:
+      - "3005:3004"
+    command: "npm run dev-async"
+    shm_size: 700m
+    
+    tmpfs:
+      - /app/temp:size=100m
+
+    networks:
+      - app-network
+
+    volumes:
+    - globalCache:/app/server/cache
+
+volumes:
+  globalCache:
+
+
+networks:
+  app-network:
+    ipam: 
+      driver: default
+      config: 
+        - subnet: 10.10.0.0/24

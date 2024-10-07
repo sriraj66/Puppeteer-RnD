@@ -1,0 +1,981 @@
+
+> events@1.0.0 async
+> node apps/asyncapp.js
+
+Batch  1  Strated
+Tue Sep 17 2024 12:56:14 GMT+0530 (India Standard Time) 557ms ID :  3  Title :    URL :  https://www.fattoriadidatticalaselce.it MSG :  Init Done
+Tue Sep 17 2024 12:56:14 GMT+0530 (India Standard Time) 557ms ID :  3  Title :    URL :  https://www.fattoriadidatticalaselce.it MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:14 GMT+0530 (India Standard Time) 558ms ID :  2  Title :    URL :  https://www.zumba-augsburg.com MSG :  Init Done
+Tue Sep 17 2024 12:56:14 GMT+0530 (India Standard Time) 558ms ID :  2  Title :    URL :  https://www.zumba-augsburg.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:14 GMT+0530 (India Standard Time) 558ms ID :  4  Title :    URL :  https://hpcontrol.uk MSG :  Init Done
+Tue Sep 17 2024 12:56:14 GMT+0530 (India Standard Time) 558ms ID :  4  Title :    URL :  https://hpcontrol.uk MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:14 GMT+0530 (India Standard Time) 559ms ID :  1  Title :    URL :  http://www.greenfieldauto.com MSG :  Init Done
+Tue Sep 17 2024 12:56:14 GMT+0530 (India Standard Time) 559ms ID :  1  Title :    URL :  http://www.greenfieldauto.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:17 GMT+0530 (India Standard Time) 30ms ID :  2  Title :  HOME - Zumba-Augsburg  URL :  https://www.zumba-augsburg.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:17 GMT+0530 (India Standard Time) 30ms ID :  2  Title :  HOME - Zumba-Augsburg  URL :  https://www.zumba-augsburg.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:17 GMT+0530 (India Standard Time) 36ms ID :  2  Title :  HOME - Zumba-Augsburg  URL :  https://www.zumba-augsburg.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:17 GMT+0530 (India Standard Time) 36ms ID :  2  Title :  HOME - Zumba-Augsburg  URL :  https://www.zumba-augsburg.com MSG :  END OF LOG
+Tue Sep 17 2024 12:56:17 GMT+0530 (India Standard Time) 36ms ID :  2  Code :  200  Title :  HOME - Zumba-Augsburg  Length :  225931
+Tue Sep 17 2024 12:56:17 GMT+0530 (India Standard Time) 49ms ID :  2  Title :  HOME - Zumba-Augsburg  URL :  https://www.zumba-augsburg.com MSG :  ENDED!!
+Tue Sep 17 2024 12:56:17 GMT+0530 (India Standard Time) 49ms ID :  2  URL :  https://www.zumba-augsburg.com Time Taken :  2491 ms :->  Avg.Time : 2491ms belongs to : 1 orders OUTOF 4 orders
+Tue Sep 17 2024 12:56:17 GMT+0530 (India Standard Time) 49ms ID :  2  URL :  https://www.zumba-augsburg.com Time Taken :  2491 ms :->  TOTAL TIME : 2491ms T.Batch : 0
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 317ms ID :  1  Title :  Greenfield Auto – Auto body repair  URL :  http://www.greenfieldauto.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 318ms ID :  1  Title :  Greenfield Auto – Auto body repair  URL :  http://www.greenfieldauto.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 320ms ID :  1  Title :  Greenfield Auto – Auto body repair  URL :  http://www.greenfieldauto.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 320ms ID :  1  Title :  Greenfield Auto – Auto body repair  URL :  http://www.greenfieldauto.com MSG :  END OF LOG
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 320ms ID :  1  Code :  200  Title :  Greenfield Auto – Auto body repair  Length :  59839
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 328ms ID :  1  Title :  Greenfield Auto – Auto body repair  URL :  http://www.greenfieldauto.com MSG :  ENDED!!
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 329ms ID :  1  URL :  http://www.greenfieldauto.com Time Taken :  4770 ms :->  Avg.Time : 4770ms belongs to : 2 orders OUTOF 4 orders
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 329ms ID :  1  URL :  http://www.greenfieldauto.com Time Taken :  4770 ms :->  TOTAL TIME : 7261ms T.Batch : 0
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 331ms ID :  4  Title :  Hydraulic Pneumatic Control parts and devices HPControl  URL :  https://hpcontrol.uk MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 331ms ID :  4  Title :  Hydraulic Pneumatic Control parts and devices HPControl  URL :  https://hpcontrol.uk MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 335ms ID :  4  Title :  Hydraulic Pneumatic Control parts and devices HPControl  URL :  https://hpcontrol.uk MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 335ms ID :  4  Title :  Hydraulic Pneumatic Control parts and devices HPControl  URL :  https://hpcontrol.uk MSG :  END OF LOG
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 335ms ID :  4  Code :  200  Title :  Hydraulic Pneumatic Control parts and devices HPControl  Length :  89867
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 353ms ID :  4  Title :  Hydraulic Pneumatic Control parts and devices HPControl  URL :  https://hpcontrol.uk MSG :  ENDED!!
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 353ms ID :  4  URL :  https://hpcontrol.uk Time Taken :  4795 ms :->  Avg.Time : 4795ms belongs to : 3 orders OUTOF 4 orders
+Tue Sep 17 2024 12:56:19 GMT+0530 (India Standard Time) 353ms ID :  4  URL :  https://hpcontrol.uk Time Taken :  4795 ms :->  TOTAL TIME : 12056ms T.Batch : 0
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 580ms ID :  3  Title :  Fattoria Didattica "La Selce" - Bagnaria Arsa (UD) - FVG  URL :  https://www.fattoriadidatticalaselce.it MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 580ms ID :  3  Title :  Fattoria Didattica "La Selce" - Bagnaria Arsa (UD) - FVG  URL :  https://www.fattoriadidatticalaselce.it MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 584ms ID :  3  Title :  Fattoria Didattica "La Selce" - Bagnaria Arsa (UD) - FVG  URL :  https://www.fattoriadidatticalaselce.it MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 584ms ID :  3  Title :  Fattoria Didattica "La Selce" - Bagnaria Arsa (UD) - FVG  URL :  https://www.fattoriadidatticalaselce.it MSG :  END OF LOG
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 584ms ID :  3  Code :  200  Title :  Fattoria Didattica "La Selce" - Bagnaria Arsa (UD) - FVG  Length :  71043
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 598ms ID :  3  Title :  Fattoria Didattica "La Selce" - Bagnaria Arsa (UD) - FVG  URL :  https://www.fattoriadidatticalaselce.it MSG :  ENDED!!
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 598ms ID :  3  URL :  https://www.fattoriadidatticalaselce.it Time Taken :  8041 ms :->  Avg.Time : 8041ms belongs to : 4 orders OUTOF 4 orders
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 598ms ID :  3  URL :  https://www.fattoriadidatticalaselce.it Time Taken :  8041 ms :->  TOTAL TIME : 20097ms T.Batch : 1
+Batch  2  Strated
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 706ms ID :  7  Title :    URL :  https://wholesalemortgages.net MSG :  Init Done
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 706ms ID :  7  Title :    URL :  https://wholesalemortgages.net MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 707ms ID :  6  Title :    URL :  https://wudao-stralsund.de MSG :  Init Done
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 707ms ID :  6  Title :    URL :  https://wudao-stralsund.de MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 707ms ID :  5  Title :    URL :  https://mecinservice.com.br MSG :  Init Done
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 707ms ID :  5  Title :    URL :  https://mecinservice.com.br MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 708ms ID :  8  Title :    URL :  http://www.cm-moncorvo.pt MSG :  Init Done
+Tue Sep 17 2024 12:56:22 GMT+0530 (India Standard Time) 708ms ID :  8  Title :    URL :  http://www.cm-moncorvo.pt MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 68ms ID :  6  Title :  Home – WuDao Stralsund – Akademie für asiatische Bewegungskünste und Kung Fu  URL :  https://wudao-stralsund.de MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 68ms ID :  6  Title :  Home – WuDao Stralsund – Akademie für asiatische Bewegungskünste und Kung Fu  URL :  https://wudao-stralsund.de MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 72ms ID :  6  Title :  Home – WuDao Stralsund – Akademie für asiatische Bewegungskünste und Kung Fu  URL :  https://wudao-stralsund.de MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 72ms ID :  6  Title :  Home – WuDao Stralsund – Akademie für asiatische Bewegungskünste und Kung Fu  URL :  https://wudao-stralsund.de MSG :  END OF LOG
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 72ms ID :  6  Code :  200  Title :  Home – WuDao Stralsund – Akademie für asiatische Bewegungskünste und Kung Fu  Length :  180973
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 86ms ID :  6  Title :  Home – WuDao Stralsund – Akademie für asiatische Bewegungskünste und Kung Fu  URL :  https://wudao-stralsund.de MSG :  ENDED!!
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 86ms ID :  6  URL :  https://wudao-stralsund.de Time Taken :  2379 ms :->  Avg.Time : 2379ms belongs to : 5 orders OUTOF 8 orders
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 86ms ID :  6  URL :  https://wudao-stralsund.de Time Taken :  2379 ms :->  TOTAL TIME : 22476ms T.Batch : 1
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 912ms ID :  8  Title :    URL :  http://www.cm-moncorvo.pt MSG :  END OF LOG
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 912ms ID :  8  Code :  500  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 921ms ID :  8  Title :    URL :  http://www.cm-moncorvo.pt MSG :  ENDED!!
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 921ms ID :  8  URL :  http://www.cm-moncorvo.pt Time Taken :  3213 ms :->  Avg.Time : 3213ms belongs to : 6 orders OUTOF 8 orders
+Tue Sep 17 2024 12:56:25 GMT+0530 (India Standard Time) 921ms ID :  8  URL :  http://www.cm-moncorvo.pt Time Taken :  3213 ms :->  TOTAL TIME : 25689ms T.Batch : 1
+Tue Sep 17 2024 12:56:31 GMT+0530 (India Standard Time) 966ms ID :  7  Title :  Wholesale Mortgages  URL :  https://wholesalemortgages.net MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:31 GMT+0530 (India Standard Time) 966ms ID :  7  Title :  Wholesale Mortgages  URL :  https://wholesalemortgages.net MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:31 GMT+0530 (India Standard Time) 971ms ID :  7  Title :  Wholesale Mortgages  URL :  https://wholesalemortgages.net MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:31 GMT+0530 (India Standard Time) 971ms ID :  7  Title :  Wholesale Mortgages  URL :  https://wholesalemortgages.net MSG :  END OF LOG
+Tue Sep 17 2024 12:56:31 GMT+0530 (India Standard Time) 971ms ID :  7  Code :  200  Title :  Wholesale Mortgages  Length :  163870
+Tue Sep 17 2024 12:56:31 GMT+0530 (India Standard Time) 981ms ID :  7  Title :  Wholesale Mortgages  URL :  https://wholesalemortgages.net MSG :  ENDED!!
+Tue Sep 17 2024 12:56:31 GMT+0530 (India Standard Time) 981ms ID :  7  URL :  https://wholesalemortgages.net Time Taken :  9275 ms :->  Avg.Time : 9275ms belongs to : 7 orders OUTOF 8 orders
+Tue Sep 17 2024 12:56:31 GMT+0530 (India Standard Time) 981ms ID :  7  URL :  https://wholesalemortgages.net Time Taken :  9275 ms :->  TOTAL TIME : 34964ms T.Batch : 1
+Tue Sep 17 2024 12:56:33 GMT+0530 (India Standard Time) 934ms ID :  5  Title :  Mec In Service - fabricação industrial (Ouro Branco - MG)  URL :  https://mecinservice.com.br MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:33 GMT+0530 (India Standard Time) 934ms ID :  5  Title :  Mec In Service - fabricação industrial (Ouro Branco - MG)  URL :  https://mecinservice.com.br MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:33 GMT+0530 (India Standard Time) 939ms ID :  5  Title :  Mec In Service - fabricação industrial (Ouro Branco - MG)  URL :  https://mecinservice.com.br MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:33 GMT+0530 (India Standard Time) 940ms ID :  5  Title :  Mec In Service - fabricação industrial (Ouro Branco - MG)  URL :  https://mecinservice.com.br MSG :  END OF LOG
+Tue Sep 17 2024 12:56:33 GMT+0530 (India Standard Time) 940ms ID :  5  Code :  200  Title :  Mec In Service - fabricação industrial (Ouro Branco - MG)  Length :  240218
+Tue Sep 17 2024 12:56:33 GMT+0530 (India Standard Time) 956ms ID :  5  Title :  Mec In Service - fabricação industrial (Ouro Branco - MG)  URL :  https://mecinservice.com.br MSG :  ENDED!!
+Tue Sep 17 2024 12:56:33 GMT+0530 (India Standard Time) 956ms ID :  5  URL :  https://mecinservice.com.br Time Taken :  11249 ms :->  Avg.Time : 11249ms belongs to : 8 orders OUTOF 8 orders
+Tue Sep 17 2024 12:56:33 GMT+0530 (India Standard Time) 956ms ID :  5  URL :  https://mecinservice.com.br Time Taken :  11249 ms :->  TOTAL TIME : 46213ms T.Batch : 2
+Batch  3  Strated
+Tue Sep 17 2024 12:56:34 GMT+0530 (India Standard Time) 64ms ID :  9  Title :    URL :  https://www.fibermax.ind.br MSG :  Init Done
+Tue Sep 17 2024 12:56:34 GMT+0530 (India Standard Time) 64ms ID :  9  Title :    URL :  https://www.fibermax.ind.br MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:34 GMT+0530 (India Standard Time) 65ms ID :  11  Title :    URL :  https://www.greenteamsanjoaquin.com MSG :  Init Done
+Tue Sep 17 2024 12:56:34 GMT+0530 (India Standard Time) 65ms ID :  11  Title :    URL :  https://www.greenteamsanjoaquin.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:34 GMT+0530 (India Standard Time) 65ms ID :  10  Title :    URL :  https://www.factory-tub.com MSG :  Init Done
+Tue Sep 17 2024 12:56:34 GMT+0530 (India Standard Time) 65ms ID :  10  Title :    URL :  https://www.factory-tub.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:34 GMT+0530 (India Standard Time) 65ms ID :  12  Title :    URL :  http://www.greenespeak.com MSG :  Init Done
+Tue Sep 17 2024 12:56:34 GMT+0530 (India Standard Time) 65ms ID :  12  Title :    URL :  http://www.greenespeak.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:56:38 GMT+0530 (India Standard Time) 984ms ID :  9  Title :  Fibermax - Escadas de fibra de vidro  URL :  https://www.fibermax.ind.br MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:38 GMT+0530 (India Standard Time) 992ms ID :  9  Title :  Fibermax - Escadas de fibra de vidro  URL :  https://www.fibermax.ind.br MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:38 GMT+0530 (India Standard Time) 994ms ID :  9  Title :  Fibermax - Escadas de fibra de vidro  URL :  https://www.fibermax.ind.br MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:38 GMT+0530 (India Standard Time) 994ms ID :  9  Title :  Fibermax - Escadas de fibra de vidro  URL :  https://www.fibermax.ind.br MSG :  END OF LOG
+Tue Sep 17 2024 12:56:38 GMT+0530 (India Standard Time) 994ms ID :  9  Code :  200  Title :  Fibermax - Escadas de fibra de vidro  Length :  26743
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 6ms ID :  9  Title :  Fibermax - Escadas de fibra de vidro  URL :  https://www.fibermax.ind.br MSG :  ENDED!!
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 6ms ID :  9  URL :  https://www.fibermax.ind.br Time Taken :  4942 ms :->  Avg.Time : 4942ms belongs to : 9 orders OUTOF 12 orders
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 7ms ID :  9  URL :  https://www.fibermax.ind.br Time Taken :  4942 ms :->  TOTAL TIME : 51155ms T.Batch : 2
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 283ms ID :  11  Title :  Green Team of San Joaquin: Promoting Sustainability in Our Community  URL :  https://www.greenteamsanjoaquin.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 283ms ID :  11  Title :  Green Team of San Joaquin: Promoting Sustainability in Our Community  URL :  https://www.greenteamsanjoaquin.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 285ms ID :  11  Title :  Green Team of San Joaquin: Promoting Sustainability in Our Community  URL :  https://www.greenteamsanjoaquin.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 285ms ID :  11  Title :  Green Team of San Joaquin: Promoting Sustainability in Our Community  URL :  https://www.greenteamsanjoaquin.com MSG :  END OF LOG
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 285ms ID :  11  Code :  200  Title :  Green Team of San Joaquin: Promoting Sustainability in Our Community  Length :  63018
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 298ms ID :  11  Title :  Green Team of San Joaquin: Promoting Sustainability in Our Community  URL :  https://www.greenteamsanjoaquin.com MSG :  ENDED!!
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 299ms ID :  11  URL :  https://www.greenteamsanjoaquin.com Time Taken :  5234 ms :->  Avg.Time : 5234ms belongs to : 10 orders OUTOF 12 orders
+Tue Sep 17 2024 12:56:39 GMT+0530 (India Standard Time) 299ms ID :  11  URL :  https://www.greenteamsanjoaquin.com Time Taken :  5234 ms :->  TOTAL TIME : 56389ms T.Batch : 2
+Tue Sep 17 2024 12:57:04 GMT+0530 (India Standard Time) 75ms ID :  10  Title :    URL :  https://www.factory-tub.com MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at https://www.factory-tub.com
+Tue Sep 17 2024 12:57:04 GMT+0530 (India Standard Time) 83ms ID :  10  Title :    URL :  https://www.factory-tub.com MSG :  END OF LOG
+Tue Sep 17 2024 12:57:04 GMT+0530 (India Standard Time) 83ms ID :  10  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:57:04 GMT+0530 (India Standard Time) 93ms ID :  10  Title :    URL :  https://www.factory-tub.com MSG :  ENDED!!
+Tue Sep 17 2024 12:57:04 GMT+0530 (India Standard Time) 93ms ID :  10  URL :  https://www.factory-tub.com Time Taken :  30028 ms :->  Avg.Time : 30028ms belongs to : 11 orders OUTOF 12 orders
+Tue Sep 17 2024 12:57:04 GMT+0530 (India Standard Time) 93ms ID :  10  URL :  https://www.factory-tub.com Time Taken :  30028 ms :->  TOTAL TIME : 86417ms T.Batch : 2
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 94ms ID :  12  Title :    URL :  http://www.greenespeak.com MSG :  ERROR : Scrap : Navigation timeout of 60000 ms exceeded
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 103ms ID :  12  Title :    URL :  http://www.greenespeak.com MSG :  END OF LOG
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 103ms ID :  12  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 114ms ID :  12  Title :    URL :  http://www.greenespeak.com MSG :  ENDED!!
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 114ms ID :  12  URL :  http://www.greenespeak.com Time Taken :  60049 ms :->  Avg.Time : 60049ms belongs to : 12 orders OUTOF 12 orders
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 114ms ID :  12  URL :  http://www.greenespeak.com Time Taken :  60049 ms :->  TOTAL TIME : 146466ms T.Batch : 3
+Batch  4  Strated
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 232ms ID :  14  Title :    URL :  https://westpropertyservicesmi.com MSG :  Init Done
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 232ms ID :  14  Title :    URL :  https://westpropertyservicesmi.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 232ms ID :  15  Title :    URL :  http://www.newlightboston.org MSG :  Init Done
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 232ms ID :  15  Title :    URL :  http://www.newlightboston.org MSG :  GOTO Strated
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 233ms ID :  16  Title :    URL :  http://www.relocate2nm.com MSG :  Init Done
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 233ms ID :  16  Title :    URL :  http://www.relocate2nm.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 233ms ID :  13  Title :    URL :  https://newyorkrxpac.org MSG :  Init Done
+Tue Sep 17 2024 12:57:34 GMT+0530 (India Standard Time) 233ms ID :  13  Title :    URL :  https://newyorkrxpac.org MSG :  GOTO Strated
+Tue Sep 17 2024 12:57:37 GMT+0530 (India Standard Time) 278ms ID :  15  Title :  NLKC English Ministry  URL :  http://www.newlightboston.org MSG :  GOTO Finished
+Tue Sep 17 2024 12:57:37 GMT+0530 (India Standard Time) 279ms ID :  15  Title :  NLKC English Ministry  URL :  http://www.newlightboston.org MSG :  Extraction Strated
+Tue Sep 17 2024 12:57:37 GMT+0530 (India Standard Time) 280ms ID :  15  Title :  NLKC English Ministry  URL :  http://www.newlightboston.org MSG :  Extraction Done!!
+Tue Sep 17 2024 12:57:37 GMT+0530 (India Standard Time) 280ms ID :  15  Title :  NLKC English Ministry  URL :  http://www.newlightboston.org MSG :  END OF LOG
+Tue Sep 17 2024 12:57:37 GMT+0530 (India Standard Time) 280ms ID :  15  Code :  200  Title :  NLKC English Ministry  Length :  45980
+Tue Sep 17 2024 12:57:37 GMT+0530 (India Standard Time) 291ms ID :  15  Title :  NLKC English Ministry  URL :  http://www.newlightboston.org MSG :  ENDED!!
+Tue Sep 17 2024 12:57:37 GMT+0530 (India Standard Time) 291ms ID :  15  URL :  http://www.newlightboston.org Time Taken :  3059 ms :->  Avg.Time : 3059ms belongs to : 13 orders OUTOF 16 orders
+Tue Sep 17 2024 12:57:37 GMT+0530 (India Standard Time) 292ms ID :  15  URL :  http://www.newlightboston.org Time Taken :  3059 ms :->  TOTAL TIME : 149525ms T.Batch : 3
+Tue Sep 17 2024 12:57:38 GMT+0530 (India Standard Time) 215ms ID :  14  Title :    URL :  https://westpropertyservicesmi.com MSG :  END OF LOG
+Tue Sep 17 2024 12:57:38 GMT+0530 (India Standard Time) 215ms ID :  14  Code :  403  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:57:38 GMT+0530 (India Standard Time) 223ms ID :  14  Title :    URL :  https://westpropertyservicesmi.com MSG :  ENDED!!
+Tue Sep 17 2024 12:57:38 GMT+0530 (India Standard Time) 223ms ID :  14  URL :  https://westpropertyservicesmi.com Time Taken :  3991 ms :->  Avg.Time : 3991ms belongs to : 14 orders OUTOF 16 orders
+Tue Sep 17 2024 12:57:38 GMT+0530 (India Standard Time) 223ms ID :  14  URL :  https://westpropertyservicesmi.com Time Taken :  3991 ms :->  TOTAL TIME : 153516ms T.Batch : 3
+Tue Sep 17 2024 12:57:40 GMT+0530 (India Standard Time) 275ms ID :  16  Title :  Mindy Prokos Real Estate Services - Placitas, New Mexico  URL :  http://www.relocate2nm.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:57:40 GMT+0530 (India Standard Time) 275ms ID :  16  Title :  Mindy Prokos Real Estate Services - Placitas, New Mexico  URL :  http://www.relocate2nm.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:57:40 GMT+0530 (India Standard Time) 277ms ID :  16  Title :  Mindy Prokos Real Estate Services - Placitas, New Mexico  URL :  http://www.relocate2nm.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:57:40 GMT+0530 (India Standard Time) 277ms ID :  16  Title :  Mindy Prokos Real Estate Services - Placitas, New Mexico  URL :  http://www.relocate2nm.com MSG :  END OF LOG
+Tue Sep 17 2024 12:57:40 GMT+0530 (India Standard Time) 277ms ID :  16  Code :  200  Title :  Mindy Prokos Real Estate Services - Placitas, New Mexico  Length :  5132
+Tue Sep 17 2024 12:57:40 GMT+0530 (India Standard Time) 284ms ID :  16  Title :  Mindy Prokos Real Estate Services - Placitas, New Mexico  URL :  http://www.relocate2nm.com MSG :  ENDED!!
+Tue Sep 17 2024 12:57:40 GMT+0530 (India Standard Time) 284ms ID :  16  URL :  http://www.relocate2nm.com Time Taken :  6051 ms :->  Avg.Time : 6051ms belongs to : 15 orders OUTOF 16 orders
+Tue Sep 17 2024 12:57:40 GMT+0530 (India Standard Time) 284ms ID :  16  URL :  http://www.relocate2nm.com Time Taken :  6051 ms :->  TOTAL TIME : 159567ms T.Batch : 3
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 333ms ID :  13  Title :    URL :  https://newyorkrxpac.org MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at https://newyorkrxpac.org
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 342ms ID :  13  Title :    URL :  https://newyorkrxpac.org MSG :  END OF LOG
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 342ms ID :  13  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 354ms ID :  13  Title :    URL :  https://newyorkrxpac.org MSG :  ENDED!!
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 354ms ID :  13  URL :  https://newyorkrxpac.org Time Taken :  30121 ms :->  Avg.Time : 30121ms belongs to : 16 orders OUTOF 16 orders
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 354ms ID :  13  URL :  https://newyorkrxpac.org Time Taken :  30121 ms :->  TOTAL TIME : 189688ms T.Batch : 4
+Batch  5  Strated
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 461ms ID :  17  Title :    URL :  https://grawerton.pl MSG :  Init Done
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 462ms ID :  17  Title :    URL :  https://grawerton.pl MSG :  GOTO Strated
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 462ms ID :  19  Title :    URL :  https://www.lbklawnparty.org MSG :  Init Done
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 462ms ID :  19  Title :    URL :  https://www.lbklawnparty.org MSG :  GOTO Strated
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 462ms ID :  20  Title :    URL :  https://www.homepagemeister.com MSG :  Init Done
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 462ms ID :  20  Title :    URL :  https://www.homepagemeister.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 462ms ID :  18  Title :    URL :  http://www.countryhillestates.com MSG :  Init Done
+Tue Sep 17 2024 12:58:04 GMT+0530 (India Standard Time) 462ms ID :  18  Title :    URL :  http://www.countryhillestates.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 16ms ID :  20  Title :  HomepageMeister - HomepageMeister | Wir erstellen Ihre neue Homepage  URL :  https://www.homepagemeister.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 25ms ID :  20  Title :  HomepageMeister - HomepageMeister | Wir erstellen Ihre neue Homepage  URL :  https://www.homepagemeister.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 35ms ID :  20  Title :  HomepageMeister - HomepageMeister | Wir erstellen Ihre neue Homepage  URL :  https://www.homepagemeister.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 36ms ID :  20  Title :  HomepageMeister - HomepageMeister | Wir erstellen Ihre neue Homepage  URL :  https://www.homepagemeister.com MSG :  END OF LOG
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 36ms ID :  20  Code :  200  Title :  HomepageMeister - HomepageMeister | Wir erstellen Ihre neue Homepage  Length :  423397
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 48ms ID :  20  Title :  HomepageMeister - HomepageMeister | Wir erstellen Ihre neue Homepage  URL :  https://www.homepagemeister.com MSG :  ENDED!!
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 48ms ID :  20  URL :  https://www.homepagemeister.com Time Taken :  3586 ms :->  Avg.Time : 3586ms belongs to : 17 orders OUTOF 20 orders
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 48ms ID :  20  URL :  https://www.homepagemeister.com Time Taken :  3586 ms :->  TOTAL TIME : 193274ms T.Batch : 4
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 779ms ID :  18  Title :    URL :  http://www.countryhillestates.com MSG :  END OF LOG
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 779ms ID :  18  Code :  503  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 789ms ID :  18  Title :    URL :  http://www.countryhillestates.com MSG :  ENDED!!
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 790ms ID :  18  URL :  http://www.countryhillestates.com Time Taken :  4328 ms :->  Avg.Time : 4328ms belongs to : 18 orders OUTOF 20 orders
+Tue Sep 17 2024 12:58:08 GMT+0530 (India Standard Time) 790ms ID :  18  URL :  http://www.countryhillestates.com Time Taken :  4328 ms :->  TOTAL TIME : 197602ms T.Batch : 4
+Tue Sep 17 2024 12:58:09 GMT+0530 (India Standard Time) 75ms ID :  19  Title :  Longboat Key Lawn party | Lbklawnparty.org | Longboat Key  URL :  https://www.lbklawnparty.org MSG :  GOTO Finished
+Tue Sep 17 2024 12:58:09 GMT+0530 (India Standard Time) 75ms ID :  19  Title :  Longboat Key Lawn party | Lbklawnparty.org | Longboat Key  URL :  https://www.lbklawnparty.org MSG :  Extraction Strated
+Tue Sep 17 2024 12:58:09 GMT+0530 (India Standard Time) 86ms ID :  19  Title :  Longboat Key Lawn party | Lbklawnparty.org | Longboat Key  URL :  https://www.lbklawnparty.org MSG :  Extraction Done!!
+Tue Sep 17 2024 12:58:09 GMT+0530 (India Standard Time) 86ms ID :  19  Title :  Longboat Key Lawn party | Lbklawnparty.org | Longboat Key  URL :  https://www.lbklawnparty.org MSG :  END OF LOG
+Tue Sep 17 2024 12:58:09 GMT+0530 (India Standard Time) 86ms ID :  19  Code :  200  Title :  Longboat Key Lawn party | Lbklawnparty.org | Longboat Key  Length :  495702
+Tue Sep 17 2024 12:58:09 GMT+0530 (India Standard Time) 102ms ID :  19  Title :  Longboat Key Lawn party | Lbklawnparty.org | Longboat Key  URL :  https://www.lbklawnparty.org MSG :  ENDED!!
+Tue Sep 17 2024 12:58:09 GMT+0530 (India Standard Time) 102ms ID :  19  URL :  https://www.lbklawnparty.org Time Taken :  4640 ms :->  Avg.Time : 4640ms belongs to : 19 orders OUTOF 20 orders
+Tue Sep 17 2024 12:58:09 GMT+0530 (India Standard Time) 102ms ID :  19  URL :  https://www.lbklawnparty.org Time Taken :  4640 ms :->  TOTAL TIME : 202242ms T.Batch : 4
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 254ms ID :  17  Title :  Everything for sublimation | GRAWERTON  URL :  https://grawerton.pl MSG :  GOTO Finished
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 254ms ID :  17  Title :  Everything for sublimation | GRAWERTON  URL :  https://grawerton.pl MSG :  Extraction Strated
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 271ms ID :  17  Title :  Everything for sublimation | GRAWERTON  URL :  https://grawerton.pl MSG :  Extraction Done!!
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 271ms ID :  17  Title :  Everything for sublimation | GRAWERTON  URL :  https://grawerton.pl MSG :  END OF LOG
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 271ms ID :  17  Code :  200  Title :  Everything for sublimation | GRAWERTON  Length :  621335
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 285ms ID :  17  Title :  Everything for sublimation | GRAWERTON  URL :  https://grawerton.pl MSG :  ENDED!!
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 285ms ID :  17  URL :  https://grawerton.pl Time Taken :  9823 ms :->  Avg.Time : 9823ms belongs to : 20 orders OUTOF 20 orders
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 285ms ID :  17  URL :  https://grawerton.pl Time Taken :  9823 ms :->  TOTAL TIME : 212065ms T.Batch : 5
+Batch  6  Strated
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 423ms ID :  24  Title :    URL :  https://www.grayhawkllc.com MSG :  Init Done
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 423ms ID :  24  Title :    URL :  https://www.grayhawkllc.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 424ms ID :  21  Title :    URL :  http://rsnonline.org MSG :  Init Done
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 424ms ID :  21  Title :    URL :  http://rsnonline.org MSG :  GOTO Strated
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 424ms ID :  22  Title :    URL :  https://www.westpotomaccap.com MSG :  Init Done
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 424ms ID :  22  Title :    URL :  https://www.westpotomaccap.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 425ms ID :  23  Title :    URL :  https://www.fotojal.com MSG :  Init Done
+Tue Sep 17 2024 12:58:14 GMT+0530 (India Standard Time) 425ms ID :  23  Title :    URL :  https://www.fotojal.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:58:16 GMT+0530 (India Standard Time) 379ms ID :  22  Title :  West Potomac Capital  URL :  https://www.westpotomaccap.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:58:16 GMT+0530 (India Standard Time) 379ms ID :  22  Title :  West Potomac Capital  URL :  https://www.westpotomaccap.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:58:16 GMT+0530 (India Standard Time) 380ms ID :  22  Title :  West Potomac Capital  URL :  https://www.westpotomaccap.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:58:16 GMT+0530 (India Standard Time) 380ms ID :  22  Title :  West Potomac Capital  URL :  https://www.westpotomaccap.com MSG :  END OF LOG
+Tue Sep 17 2024 12:58:16 GMT+0530 (India Standard Time) 380ms ID :  22  Code :  200  Title :  West Potomac Capital  Length :  28912
+Tue Sep 17 2024 12:58:16 GMT+0530 (India Standard Time) 389ms ID :  22  Title :  West Potomac Capital  URL :  https://www.westpotomaccap.com MSG :  ENDED!!
+Tue Sep 17 2024 12:58:16 GMT+0530 (India Standard Time) 389ms ID :  22  URL :  https://www.westpotomaccap.com Time Taken :  1965 ms :->  Avg.Time : 1965ms belongs to : 21 orders OUTOF 24 orders
+Tue Sep 17 2024 12:58:16 GMT+0530 (India Standard Time) 389ms ID :  22  URL :  https://www.westpotomaccap.com Time Taken :  1965 ms :->  TOTAL TIME : 214030ms T.Batch : 5
+Tue Sep 17 2024 12:58:17 GMT+0530 (India Standard Time) 440ms ID :  23  Title :  fotojal  URL :  https://www.fotojal.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:58:17 GMT+0530 (India Standard Time) 440ms ID :  23  Title :  fotojal  URL :  https://www.fotojal.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:58:17 GMT+0530 (India Standard Time) 443ms ID :  23  Title :  fotojal  URL :  https://www.fotojal.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:58:17 GMT+0530 (India Standard Time) 443ms ID :  23  Title :  fotojal  URL :  https://www.fotojal.com MSG :  END OF LOG
+Tue Sep 17 2024 12:58:17 GMT+0530 (India Standard Time) 443ms ID :  23  Code :  200  Title :  fotojal  Length :  110749
+Tue Sep 17 2024 12:58:17 GMT+0530 (India Standard Time) 466ms ID :  23  Title :  fotojal  URL :  https://www.fotojal.com MSG :  ENDED!!
+Tue Sep 17 2024 12:58:17 GMT+0530 (India Standard Time) 467ms ID :  23  URL :  https://www.fotojal.com Time Taken :  3042 ms :->  Avg.Time : 3042ms belongs to : 22 orders OUTOF 24 orders
+Tue Sep 17 2024 12:58:17 GMT+0530 (India Standard Time) 467ms ID :  23  URL :  https://www.fotojal.com Time Taken :  3042 ms :->  TOTAL TIME : 217072ms T.Batch : 5
+Tue Sep 17 2024 12:58:19 GMT+0530 (India Standard Time) 259ms ID :  24  Title :  Home Slideshow | Gray Hawk Construction  URL :  https://www.grayhawkllc.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:58:19 GMT+0530 (India Standard Time) 259ms ID :  24  Title :  Home Slideshow | Gray Hawk Construction  URL :  https://www.grayhawkllc.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:58:19 GMT+0530 (India Standard Time) 260ms ID :  24  Title :  Home Slideshow | Gray Hawk Construction  URL :  https://www.grayhawkllc.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:58:19 GMT+0530 (India Standard Time) 260ms ID :  24  Title :  Home Slideshow | Gray Hawk Construction  URL :  https://www.grayhawkllc.com MSG :  END OF LOG
+Tue Sep 17 2024 12:58:19 GMT+0530 (India Standard Time) 260ms ID :  24  Code :  200  Title :  Home Slideshow | Gray Hawk Construction  Length :  17372
+Tue Sep 17 2024 12:58:19 GMT+0530 (India Standard Time) 269ms ID :  24  Title :  Home Slideshow | Gray Hawk Construction  URL :  https://www.grayhawkllc.com MSG :  ENDED!!
+Tue Sep 17 2024 12:58:19 GMT+0530 (India Standard Time) 269ms ID :  24  URL :  https://www.grayhawkllc.com Time Taken :  4846 ms :->  Avg.Time : 4846ms belongs to : 23 orders OUTOF 24 orders
+Tue Sep 17 2024 12:58:19 GMT+0530 (India Standard Time) 269ms ID :  24  URL :  https://www.grayhawkllc.com Time Taken :  4846 ms :->  TOTAL TIME : 221918ms T.Batch : 5
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 439ms ID :  21  Title :    URL :  http://rsnonline.org MSG :  ERROR : Scrap : Navigation timeout of 60000 ms exceeded
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 447ms ID :  21  Title :    URL :  http://rsnonline.org MSG :  END OF LOG
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 447ms ID :  21  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 456ms ID :  21  Title :    URL :  http://rsnonline.org MSG :  ENDED!!
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 456ms ID :  21  URL :  http://rsnonline.org Time Taken :  60032 ms :->  Avg.Time : 60032ms belongs to : 24 orders OUTOF 24 orders
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 456ms ID :  21  URL :  http://rsnonline.org Time Taken :  60032 ms :->  TOTAL TIME : 281950ms T.Batch : 6
+Batch  7  Strated
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 569ms ID :  27  Title :    URL :  https://www.rachelleloganmedia.com MSG :  Init Done
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 569ms ID :  27  Title :    URL :  https://www.rachelleloganmedia.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 569ms ID :  25  Title :    URL :  https://thegospeltoday.com MSG :  Init Done
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 569ms ID :  25  Title :    URL :  https://thegospeltoday.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 569ms ID :  26  Title :    URL :  https://www.seenlandsafran.de MSG :  Init Done
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 569ms ID :  26  Title :    URL :  https://www.seenlandsafran.de MSG :  GOTO Strated
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 569ms ID :  28  Title :    URL :  http://www.impactfishing.com MSG :  Init Done
+Tue Sep 17 2024 12:59:14 GMT+0530 (India Standard Time) 569ms ID :  28  Title :    URL :  http://www.impactfishing.com MSG :  GOTO Strated
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 443ms ID :  26  Title :    URL :  https://www.seenlandsafran.de MSG :  END OF LOG
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 443ms ID :  26  Code :  403  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 453ms ID :  26  Title :    URL :  https://www.seenlandsafran.de MSG :  ENDED!!
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 453ms ID :  26  URL :  https://www.seenlandsafran.de Time Taken :  1884 ms :->  Avg.Time : 1884ms belongs to : 25 orders OUTOF 28 orders
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 453ms ID :  26  URL :  https://www.seenlandsafran.de Time Taken :  1884 ms :->  TOTAL TIME : 283834ms T.Batch : 6
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 725ms ID :  27  Title :  Mannorism Professional | Rachelle Logan Media  URL :  https://www.rachelleloganmedia.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 725ms ID :  27  Title :  Mannorism Professional | Rachelle Logan Media  URL :  https://www.rachelleloganmedia.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 753ms ID :  27  Title :  Mannorism Professional | Rachelle Logan Media  URL :  https://www.rachelleloganmedia.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 753ms ID :  27  Title :  Mannorism Professional | Rachelle Logan Media  URL :  https://www.rachelleloganmedia.com MSG :  END OF LOG
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 753ms ID :  27  Code :  200  Title :  Mannorism Professional | Rachelle Logan Media  Length :  1057130
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 772ms ID :  27  Title :  Mannorism Professional | Rachelle Logan Media  URL :  https://www.rachelleloganmedia.com MSG :  ENDED!!
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 772ms ID :  27  URL :  https://www.rachelleloganmedia.com Time Taken :  2203 ms :->  Avg.Time : 2203ms belongs to : 26 orders OUTOF 28 orders
+Tue Sep 17 2024 12:59:16 GMT+0530 (India Standard Time) 772ms ID :  27  URL :  https://www.rachelleloganmedia.com Time Taken :  2203 ms :->  TOTAL TIME : 286037ms T.Batch : 6
+Tue Sep 17 2024 12:59:17 GMT+0530 (India Standard Time) 844ms ID :  28  Title :  Impactfishing  URL :  http://www.impactfishing.com MSG :  GOTO Finished
+Tue Sep 17 2024 12:59:17 GMT+0530 (India Standard Time) 844ms ID :  28  Title :  Impactfishing  URL :  http://www.impactfishing.com MSG :  Extraction Strated
+Tue Sep 17 2024 12:59:17 GMT+0530 (India Standard Time) 845ms ID :  28  Title :  Impactfishing  URL :  http://www.impactfishing.com MSG :  Extraction Done!!
+Tue Sep 17 2024 12:59:17 GMT+0530 (India Standard Time) 845ms ID :  28  Title :  Impactfishing  URL :  http://www.impactfishing.com MSG :  END OF LOG
+Tue Sep 17 2024 12:59:17 GMT+0530 (India Standard Time) 845ms ID :  28  Code :  200  Title :  Impactfishing  Length :  46231
+Tue Sep 17 2024 12:59:17 GMT+0530 (India Standard Time) 859ms ID :  28  Title :  Impactfishing  URL :  http://www.impactfishing.com MSG :  ENDED!!
+Tue Sep 17 2024 12:59:17 GMT+0530 (India Standard Time) 859ms ID :  28  URL :  http://www.impactfishing.com Time Taken :  3290 ms :->  Avg.Time : 3290ms belongs to : 27 orders OUTOF 28 orders
+Tue Sep 17 2024 12:59:17 GMT+0530 (India Standard Time) 859ms ID :  28  URL :  http://www.impactfishing.com Time Taken :  3290 ms :->  TOTAL TIME : 289327ms T.Batch : 6
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 274ms ID :  25  Title :    URL :  https://thegospeltoday.com MSG :  END OF LOG
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 274ms ID :  25  Code :  403  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 284ms ID :  25  Title :    URL :  https://thegospeltoday.com MSG :  ENDED!!
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 284ms ID :  25  URL :  https://thegospeltoday.com Time Taken :  3715 ms :->  Avg.Time : 3715ms belongs to : 28 orders OUTOF 28 orders
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 284ms ID :  25  URL :  https://thegospeltoday.com Time Taken :  3715 ms :->  TOTAL TIME : 293042ms T.Batch : 7
+Batch  8  Strated
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 385ms ID :  29  Title :    URL :  http://www.topvalve.co.kr MSG :  Init Done
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 385ms ID :  29  Title :    URL :  http://www.topvalve.co.kr MSG :  GOTO Strated
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 385ms ID :  30  Title :    URL :  https://www.robinimesila.ee MSG :  Init Done
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 385ms ID :  30  Title :    URL :  https://www.robinimesila.ee MSG :  GOTO Strated
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 385ms ID :  32  Title :    URL :  http://www.petergordonjeweller.com.au MSG :  Init Done
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 385ms ID :  32  Title :    URL :  http://www.petergordonjeweller.com.au MSG :  GOTO Strated
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 385ms ID :  31  Title :    URL :  https://www.listedbuildingrestorations.co.uk MSG :  Init Done
+Tue Sep 17 2024 12:59:18 GMT+0530 (India Standard Time) 385ms ID :  31  Title :    URL :  https://www.listedbuildingrestorations.co.uk MSG :  GOTO Strated
+Tue Sep 17 2024 12:59:21 GMT+0530 (India Standard Time) 33ms ID :  30  Title :    URL :  https://www.robinimesila.ee MSG :  ERROR : Scrap : net::ERR_CERT_COMMON_NAME_INVALID at https://www.robinimesila.ee
+Tue Sep 17 2024 12:59:21 GMT+0530 (India Standard Time) 34ms ID :  30  Title :    URL :  https://www.robinimesila.ee MSG :  END OF LOG
+Tue Sep 17 2024 12:59:21 GMT+0530 (India Standard Time) 34ms ID :  30  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 12:59:21 GMT+0530 (India Standard Time) 42ms ID :  30  Title :    URL :  https://www.robinimesila.ee MSG :  ENDED!!
+Tue Sep 17 2024 12:59:21 GMT+0530 (India Standard Time) 42ms ID :  30  URL :  https://www.robinimesila.ee Time Taken :  2657 ms :->  Avg.Time : 2657ms belongs to : 29 orders OUTOF 32 orders
+Tue Sep 17 2024 12:59:21 GMT+0530 (India Standard Time) 42ms ID :  30  URL :  https://www.robinimesila.ee Time Taken :  2657 ms :->  TOTAL TIME : 295699ms T.Batch : 7
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 281ms ID :  31  Title :  Restoration Of Heritage Buildings in Staffordshire  URL :  https://www.listedbuildingrestorations.co.uk MSG :  GOTO Finished
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 290ms ID :  31  Title :  Restoration Of Heritage Buildings in Staffordshire  URL :  https://www.listedbuildingrestorations.co.uk MSG :  Extraction Strated
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 293ms ID :  31  Title :  Restoration Of Heritage Buildings in Staffordshire  URL :  https://www.listedbuildingrestorations.co.uk MSG :  Extraction Done!!
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 293ms ID :  31  Title :  Restoration Of Heritage Buildings in Staffordshire  URL :  https://www.listedbuildingrestorations.co.uk MSG :  END OF LOG
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 293ms ID :  31  Code :  200  Title :  Restoration Of Heritage Buildings in Staffordshire  Length :  106240
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 300ms ID :  31  Title :  Restoration Of Heritage Buildings in Staffordshire  URL :  https://www.listedbuildingrestorations.co.uk MSG :  ENDED!!
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 300ms ID :  31  URL :  https://www.listedbuildingrestorations.co.uk Time Taken :  6915 ms :->  Avg.Time : 6915ms belongs to : 30 orders OUTOF 32 orders
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 300ms ID :  31  URL :  https://www.listedbuildingrestorations.co.uk Time Taken :  6915 ms :->  TOTAL TIME : 302614ms T.Batch : 7
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 663ms ID :  32  Title :  Peter Gordon :: Jeweller - exquisite - elegant - timeless  URL :  http://www.petergordonjeweller.com.au MSG :  GOTO Finished
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 664ms ID :  32  Title :  Peter Gordon :: Jeweller - exquisite - elegant - timeless  URL :  http://www.petergordonjeweller.com.au MSG :  Extraction Strated
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 664ms ID :  32  Title :  Peter Gordon :: Jeweller - exquisite - elegant - timeless  URL :  http://www.petergordonjeweller.com.au MSG :  Extraction Done!!
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 664ms ID :  32  Title :  Peter Gordon :: Jeweller - exquisite - elegant - timeless  URL :  http://www.petergordonjeweller.com.au MSG :  END OF LOG
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 664ms ID :  32  Code :  200  Title :  Peter Gordon :: Jeweller - exquisite - elegant - timeless  Length :  9798
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 671ms ID :  32  Title :  Peter Gordon :: Jeweller - exquisite - elegant - timeless  URL :  http://www.petergordonjeweller.com.au MSG :  ENDED!!
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 671ms ID :  32  URL :  http://www.petergordonjeweller.com.au Time Taken :  7286 ms :->  Avg.Time : 7286ms belongs to : 31 orders OUTOF 32 orders
+Tue Sep 17 2024 12:59:25 GMT+0530 (India Standard Time) 671ms ID :  32  URL :  http://www.petergordonjeweller.com.au Time Taken :  7286 ms :->  TOTAL TIME : 309900ms T.Batch : 7
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 423ms ID :  29  Title :    URL :  http://www.topvalve.co.kr MSG :  ERROR : Scrap : Navigation timeout of 60000 ms exceeded
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 432ms ID :  29  Title :    URL :  http://www.topvalve.co.kr MSG :  END OF LOG
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 432ms ID :  29  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 444ms ID :  29  Title :    URL :  http://www.topvalve.co.kr MSG :  ENDED!!
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 444ms ID :  29  URL :  http://www.topvalve.co.kr Time Taken :  60059 ms :->  Avg.Time : 60059ms belongs to : 32 orders OUTOF 32 orders
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 444ms ID :  29  URL :  http://www.topvalve.co.kr Time Taken :  60059 ms :->  TOTAL TIME : 369959ms T.Batch : 8
+Batch  9  Strated
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 551ms ID :  35  Title :    URL :  https://www.shortgamegolfacademy.com MSG :  Init Done
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 551ms ID :  35  Title :    URL :  https://www.shortgamegolfacademy.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 551ms ID :  34  Title :    URL :  https://www.vanbuh.com MSG :  Init Done
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 551ms ID :  34  Title :    URL :  https://www.vanbuh.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 551ms ID :  33  Title :    URL :  http://web-and-graphic-design.com MSG :  Init Done
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 551ms ID :  33  Title :    URL :  http://web-and-graphic-design.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 551ms ID :  36  Title :    URL :  https://www.imobiliarialedur.com.br MSG :  Init Done
+Tue Sep 17 2024 13:00:18 GMT+0530 (India Standard Time) 551ms ID :  36  Title :    URL :  https://www.imobiliarialedur.com.br MSG :  GOTO Strated
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 724ms ID :  34  Title :  Diseño gráfico y 3D | Vanbúh | Mairena del Aljarafe  URL :  https://www.vanbuh.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 724ms ID :  34  Title :  Diseño gráfico y 3D | Vanbúh | Mairena del Aljarafe  URL :  https://www.vanbuh.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 745ms ID :  34  Title :  Diseño gráfico y 3D | Vanbúh | Mairena del Aljarafe  URL :  https://www.vanbuh.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 745ms ID :  34  Title :  Diseño gráfico y 3D | Vanbúh | Mairena del Aljarafe  URL :  https://www.vanbuh.com MSG :  END OF LOG
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 745ms ID :  34  Code :  200  Title :  Diseño gráfico y 3D | Vanbúh | Mairena del Aljarafe  Length :  974992
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 757ms ID :  34  Title :  Diseño gráfico y 3D | Vanbúh | Mairena del Aljarafe  URL :  https://www.vanbuh.com MSG :  ENDED!!
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 757ms ID :  34  URL :  https://www.vanbuh.com Time Taken :  2206 ms :->  Avg.Time : 2206ms belongs to : 33 orders OUTOF 36 orders
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 757ms ID :  34  URL :  https://www.vanbuh.com Time Taken :  2206 ms :->  TOTAL TIME : 372165ms T.Batch : 8
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 897ms ID :  35  Title :  Childrens Golf Lessons | Short Game Golf Academy | England  URL :  https://www.shortgamegolfacademy.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 898ms ID :  35  Title :  Childrens Golf Lessons | Short Game Golf Academy | England  URL :  https://www.shortgamegolfacademy.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 922ms ID :  35  Title :  Childrens Golf Lessons | Short Game Golf Academy | England  URL :  https://www.shortgamegolfacademy.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 922ms ID :  35  Title :  Childrens Golf Lessons | Short Game Golf Academy | England  URL :  https://www.shortgamegolfacademy.com MSG :  END OF LOG
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 922ms ID :  35  Code :  200  Title :  Childrens Golf Lessons | Short Game Golf Academy | England  Length :  993695
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 940ms ID :  35  Title :  Childrens Golf Lessons | Short Game Golf Academy | England  URL :  https://www.shortgamegolfacademy.com MSG :  ENDED!!
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 940ms ID :  35  URL :  https://www.shortgamegolfacademy.com Time Taken :  2389 ms :->  Avg.Time : 2389ms belongs to : 34 orders OUTOF 36 orders
+Tue Sep 17 2024 13:00:20 GMT+0530 (India Standard Time) 940ms ID :  35  URL :  https://www.shortgamegolfacademy.com Time Taken :  2389 ms :->  TOTAL TIME : 374554ms T.Batch : 8
+Tue Sep 17 2024 13:00:25 GMT+0530 (India Standard Time) 129ms ID :  36  Title :  Imobiliária Ledur - Bom Princípio/RS  URL :  https://www.imobiliarialedur.com.br MSG :  GOTO Finished
+Tue Sep 17 2024 13:00:25 GMT+0530 (India Standard Time) 137ms ID :  36  Title :  Imobiliária Ledur - Bom Princípio/RS  URL :  https://www.imobiliarialedur.com.br MSG :  Extraction Strated
+Tue Sep 17 2024 13:00:25 GMT+0530 (India Standard Time) 140ms ID :  36  Title :  Imobiliária Ledur - Bom Princípio/RS  URL :  https://www.imobiliarialedur.com.br MSG :  Extraction Done!!
+Tue Sep 17 2024 13:00:25 GMT+0530 (India Standard Time) 140ms ID :  36  Title :  Imobiliária Ledur - Bom Princípio/RS  URL :  https://www.imobiliarialedur.com.br MSG :  END OF LOG
+Tue Sep 17 2024 13:00:25 GMT+0530 (India Standard Time) 140ms ID :  36  Code :  200  Title :  Imobiliária Ledur - Bom Princípio/RS  Length :  62297
+Tue Sep 17 2024 13:00:25 GMT+0530 (India Standard Time) 150ms ID :  36  Title :  Imobiliária Ledur - Bom Princípio/RS  URL :  https://www.imobiliarialedur.com.br MSG :  ENDED!!
+Tue Sep 17 2024 13:00:25 GMT+0530 (India Standard Time) 150ms ID :  36  URL :  https://www.imobiliarialedur.com.br Time Taken :  6599 ms :->  Avg.Time : 6599ms belongs to : 35 orders OUTOF 36 orders
+Tue Sep 17 2024 13:00:25 GMT+0530 (India Standard Time) 150ms ID :  36  URL :  https://www.imobiliarialedur.com.br Time Taken :  6599 ms :->  TOTAL TIME : 381153ms T.Batch : 8
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 311ms ID :  33  Title :  华南酶贡健康管理有限公司  URL :  http://web-and-graphic-design.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 311ms ID :  33  Title :  华南酶贡健康管理有限公司  URL :  http://web-and-graphic-design.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 312ms ID :  33  Title :  华南酶贡健康管理有限公司  URL :  http://web-and-graphic-design.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 312ms ID :  33  Title :  华南酶贡健康管理有限公司  URL :  http://web-and-graphic-design.com MSG :  END OF LOG
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 312ms ID :  33  Code :  200  Title :  华南酶贡健康管理有限公司  Length :  1032
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 321ms ID :  33  Title :  华南酶贡健康管理有限公司  URL :  http://web-and-graphic-design.com MSG :  ENDED!!
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 321ms ID :  33  URL :  http://web-and-graphic-design.com Time Taken :  9770 ms :->  Avg.Time : 9770ms belongs to : 36 orders OUTOF 36 orders
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 321ms ID :  33  URL :  http://web-and-graphic-design.com Time Taken :  9770 ms :->  TOTAL TIME : 390923ms T.Batch : 9
+Batch  10  Strated
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 436ms ID :  39  Title :    URL :  http://www.arp.co.kr MSG :  Init Done
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 436ms ID :  39  Title :    URL :  http://www.arp.co.kr MSG :  GOTO Strated
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 437ms ID :  37  Title :    URL :  https://www.iukassel.de MSG :  Init Done
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 437ms ID :  37  Title :    URL :  https://www.iukassel.de MSG :  GOTO Strated
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 437ms ID :  38  Title :    URL :  https://www.nwencaustic.com MSG :  Init Done
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 437ms ID :  38  Title :    URL :  https://www.nwencaustic.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 437ms ID :  40  Title :    URL :  http://pepeeldelromea.es MSG :  Init Done
+Tue Sep 17 2024 13:00:28 GMT+0530 (India Standard Time) 437ms ID :  40  Title :    URL :  http://pepeeldelromea.es MSG :  GOTO Strated
+Tue Sep 17 2024 13:00:31 GMT+0530 (India Standard Time) 453ms ID :  40  Title :    URL :  http://pepeeldelromea.es MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at http://pepeeldelromea.es
+Tue Sep 17 2024 13:00:31 GMT+0530 (India Standard Time) 453ms ID :  40  Title :    URL :  http://pepeeldelromea.es MSG :  END OF LOG
+Tue Sep 17 2024 13:00:31 GMT+0530 (India Standard Time) 453ms ID :  40  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:00:31 GMT+0530 (India Standard Time) 463ms ID :  40  Title :    URL :  http://pepeeldelromea.es MSG :  ENDED!!
+Tue Sep 17 2024 13:00:31 GMT+0530 (India Standard Time) 463ms ID :  40  URL :  http://pepeeldelromea.es Time Taken :  3026 ms :->  Avg.Time : 3026ms belongs to : 37 orders OUTOF 40 orders
+Tue Sep 17 2024 13:00:31 GMT+0530 (India Standard Time) 463ms ID :  40  URL :  http://pepeeldelromea.es Time Taken :  3026 ms :->  TOTAL TIME : 393949ms T.Batch : 9
+Tue Sep 17 2024 13:00:36 GMT+0530 (India Standard Time) 37ms ID :  37  Title :  Home | iu-kassel.de  URL :  https://www.iukassel.de MSG :  GOTO Finished
+Tue Sep 17 2024 13:00:36 GMT+0530 (India Standard Time) 37ms ID :  37  Title :  Home | iu-kassel.de  URL :  https://www.iukassel.de MSG :  Extraction Strated
+Tue Sep 17 2024 13:00:36 GMT+0530 (India Standard Time) 40ms ID :  37  Title :  Home | iu-kassel.de  URL :  https://www.iukassel.de MSG :  Extraction Done!!
+Tue Sep 17 2024 13:00:36 GMT+0530 (India Standard Time) 40ms ID :  37  Title :  Home | iu-kassel.de  URL :  https://www.iukassel.de MSG :  END OF LOG
+Tue Sep 17 2024 13:00:36 GMT+0530 (India Standard Time) 40ms ID :  37  Code :  200  Title :  Home | iu-kassel.de  Length :  91587
+Tue Sep 17 2024 13:00:36 GMT+0530 (India Standard Time) 59ms ID :  37  Title :  Home | iu-kassel.de  URL :  https://www.iukassel.de MSG :  ENDED!!
+Tue Sep 17 2024 13:00:36 GMT+0530 (India Standard Time) 59ms ID :  37  URL :  https://www.iukassel.de Time Taken :  7622 ms :->  Avg.Time : 7622ms belongs to : 38 orders OUTOF 40 orders
+Tue Sep 17 2024 13:00:36 GMT+0530 (India Standard Time) 59ms ID :  37  URL :  https://www.iukassel.de Time Taken :  7622 ms :->  TOTAL TIME : 401571ms T.Batch : 9
+Tue Sep 17 2024 13:00:58 GMT+0530 (India Standard Time) 445ms ID :  38  Title :    URL :  https://www.nwencaustic.com MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at https://www.nwencaustic.com
+Tue Sep 17 2024 13:00:58 GMT+0530 (India Standard Time) 454ms ID :  38  Title :    URL :  https://www.nwencaustic.com MSG :  END OF LOG
+Tue Sep 17 2024 13:00:58 GMT+0530 (India Standard Time) 454ms ID :  38  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:00:58 GMT+0530 (India Standard Time) 463ms ID :  38  Title :    URL :  https://www.nwencaustic.com MSG :  ENDED!!
+Tue Sep 17 2024 13:00:58 GMT+0530 (India Standard Time) 463ms ID :  38  URL :  https://www.nwencaustic.com Time Taken :  30026 ms :->  Avg.Time : 30026ms belongs to : 39 orders OUTOF 40 orders
+Tue Sep 17 2024 13:00:58 GMT+0530 (India Standard Time) 463ms ID :  38  URL :  https://www.nwencaustic.com Time Taken :  30026 ms :->  TOTAL TIME : 431597ms T.Batch : 9
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 437ms ID :  39  Title :    URL :  http://www.arp.co.kr MSG :  ERROR : Scrap : Navigation timeout of 60000 ms exceeded
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 439ms ID :  39  Title :    URL :  http://www.arp.co.kr MSG :  END OF LOG
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 439ms ID :  39  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 450ms ID :  39  Title :    URL :  http://www.arp.co.kr MSG :  ENDED!!
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 450ms ID :  39  URL :  http://www.arp.co.kr Time Taken :  60014 ms :->  Avg.Time : 60014ms belongs to : 40 orders OUTOF 40 orders
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 451ms ID :  39  URL :  http://www.arp.co.kr Time Taken :  60014 ms :->  TOTAL TIME : 491611ms T.Batch : 10
+Batch  11  Strated
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 569ms ID :  42  Title :    URL :  https://balancedlivingcounseling.com MSG :  Init Done
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 574ms ID :  42  Title :    URL :  https://balancedlivingcounseling.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 574ms ID :  41  Title :    URL :  https://mikroklang.eu MSG :  Init Done
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 574ms ID :  41  Title :    URL :  https://mikroklang.eu MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 574ms ID :  43  Title :    URL :  http://www.nbjintong.com MSG :  Init Done
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 574ms ID :  43  Title :    URL :  http://www.nbjintong.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 574ms ID :  44  Title :    URL :  https://www.stainedglasscoffeehouse.com MSG :  Init Done
+Tue Sep 17 2024 13:01:28 GMT+0530 (India Standard Time) 574ms ID :  44  Title :    URL :  https://www.stainedglasscoffeehouse.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 172ms ID :  43  Title :  请稍候正在打开网页.....  URL :  http://www.nbjintong.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 172ms ID :  43  Title :  请稍候正在打开网页.....  URL :  http://www.nbjintong.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 173ms ID :  43  Title :  请稍候正在打开网页.....  URL :  http://www.nbjintong.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 173ms ID :  43  Title :  请稍候正在打开网页.....  URL :  http://www.nbjintong.com MSG :  END OF LOG
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 173ms ID :  43  Code :  200  Title :  请稍候正在打开网页.....  Length :  661
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 181ms ID :  43  Title :  请稍候正在打开网页.....  URL :  http://www.nbjintong.com MSG :  ENDED!!
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 181ms ID :  43  URL :  http://www.nbjintong.com Time Taken :  1607 ms :->  Avg.Time : 1607ms belongs to : 41 orders OUTOF 44 orders
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 181ms ID :  43  URL :  http://www.nbjintong.com Time Taken :  1607 ms :->  TOTAL TIME : 493218ms T.Batch : 10
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 753ms ID :  42  Title :  The domain name BalancedLivingCounseling.com is for sale  URL :  https://balancedlivingcounseling.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 753ms ID :  42  Title :  The domain name BalancedLivingCounseling.com is for sale  URL :  https://balancedlivingcounseling.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 755ms ID :  42  Title :  The domain name BalancedLivingCounseling.com is for sale  URL :  https://balancedlivingcounseling.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 755ms ID :  42  Title :  The domain name BalancedLivingCounseling.com is for sale  URL :  https://balancedlivingcounseling.com MSG :  END OF LOG
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 755ms ID :  42  Code :  200  Title :  The domain name BalancedLivingCounseling.com is for sale  Length :  60347
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 761ms ID :  42  Title :  The domain name BalancedLivingCounseling.com is for sale  URL :  https://balancedlivingcounseling.com MSG :  ENDED!!
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 762ms ID :  42  URL :  https://balancedlivingcounseling.com Time Taken :  2188 ms :->  Avg.Time : 2188ms belongs to : 42 orders OUTOF 44 orders
+Tue Sep 17 2024 13:01:30 GMT+0530 (India Standard Time) 762ms ID :  42  URL :  https://balancedlivingcounseling.com Time Taken :  2188 ms :->  TOTAL TIME : 495406ms T.Batch : 10
+Tue Sep 17 2024 13:01:34 GMT+0530 (India Standard Time) 823ms ID :  41  Title :  Mikroklang - Mikroklang  URL :  https://mikroklang.eu MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:34 GMT+0530 (India Standard Time) 831ms ID :  41  Title :  Mikroklang - Mikroklang  URL :  https://mikroklang.eu MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:34 GMT+0530 (India Standard Time) 835ms ID :  41  Title :  Mikroklang - Mikroklang  URL :  https://mikroklang.eu MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:34 GMT+0530 (India Standard Time) 835ms ID :  41  Title :  Mikroklang - Mikroklang  URL :  https://mikroklang.eu MSG :  END OF LOG
+Tue Sep 17 2024 13:01:34 GMT+0530 (India Standard Time) 835ms ID :  41  Code :  200  Title :  Mikroklang - Mikroklang  Length :  96245
+Tue Sep 17 2024 13:01:34 GMT+0530 (India Standard Time) 844ms ID :  41  Title :  Mikroklang - Mikroklang  URL :  https://mikroklang.eu MSG :  ENDED!!
+Tue Sep 17 2024 13:01:34 GMT+0530 (India Standard Time) 844ms ID :  41  URL :  https://mikroklang.eu Time Taken :  6270 ms :->  Avg.Time : 6270ms belongs to : 43 orders OUTOF 44 orders
+Tue Sep 17 2024 13:01:34 GMT+0530 (India Standard Time) 844ms ID :  41  URL :  https://mikroklang.eu Time Taken :  6270 ms :->  TOTAL TIME : 501676ms T.Batch : 10
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 191ms ID :  44  Title :  SLOT88: Situs Slot Gacor Maxwin Gampang Menang Resmi Viral  URL :  https://www.stainedglasscoffeehouse.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 200ms ID :  44  Title :  SLOT88: Situs Slot Gacor Maxwin Gampang Menang Resmi Viral  URL :  https://www.stainedglasscoffeehouse.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 215ms ID :  44  Title :  SLOT88: Situs Slot Gacor Maxwin Gampang Menang Resmi Viral  URL :  https://www.stainedglasscoffeehouse.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 215ms ID :  44  Title :  SLOT88: Situs Slot Gacor Maxwin Gampang Menang Resmi Viral  URL :  https://www.stainedglasscoffeehouse.com MSG :  END OF LOG
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 215ms ID :  44  Code :  200  Title :  SLOT88: Situs Slot Gacor Maxwin Gampang Menang Resmi Viral  Length :  623920
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 238ms ID :  44  Title :  SLOT88: Situs Slot Gacor Maxwin Gampang Menang Resmi Viral  URL :  https://www.stainedglasscoffeehouse.com MSG :  ENDED!!
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 238ms ID :  44  URL :  https://www.stainedglasscoffeehouse.com Time Taken :  11664 ms :->  Avg.Time : 11664ms belongs to : 44 orders OUTOF 44 orders
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 238ms ID :  44  URL :  https://www.stainedglasscoffeehouse.com Time Taken :  11664 ms :->  TOTAL TIME : 513340ms T.Batch : 11
+Batch  12  Strated
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 351ms ID :  47  Title :    URL :  http://grants.com MSG :  Init Done
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 351ms ID :  47  Title :    URL :  http://grants.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 351ms ID :  45  Title :    URL :  https://courierservicemanchester.co.uk MSG :  Init Done
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 351ms ID :  45  Title :    URL :  https://courierservicemanchester.co.uk MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 352ms ID :  48  Title :    URL :  https://www.fdp-saarpfalz.de MSG :  Init Done
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 352ms ID :  48  Title :    URL :  https://www.fdp-saarpfalz.de MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 352ms ID :  46  Title :    URL :  https://www.designskills.at MSG :  Init Done
+Tue Sep 17 2024 13:01:40 GMT+0530 (India Standard Time) 352ms ID :  46  Title :    URL :  https://www.designskills.at MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:42 GMT+0530 (India Standard Time) 174ms ID :  47  Title :  Grants.com  URL :  http://grants.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:42 GMT+0530 (India Standard Time) 174ms ID :  47  Title :  Grants.com  URL :  http://grants.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:42 GMT+0530 (India Standard Time) 175ms ID :  47  Title :  Grants.com  URL :  http://grants.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:42 GMT+0530 (India Standard Time) 175ms ID :  47  Title :  Grants.com  URL :  http://grants.com MSG :  END OF LOG
+Tue Sep 17 2024 13:01:42 GMT+0530 (India Standard Time) 175ms ID :  47  Code :  200  Title :  Grants.com  Length :  2982
+Tue Sep 17 2024 13:01:42 GMT+0530 (India Standard Time) 184ms ID :  47  Title :  Grants.com  URL :  http://grants.com MSG :  ENDED!!
+Tue Sep 17 2024 13:01:42 GMT+0530 (India Standard Time) 184ms ID :  47  URL :  http://grants.com Time Taken :  1833 ms :->  Avg.Time : 1833ms belongs to : 45 orders OUTOF 48 orders
+Tue Sep 17 2024 13:01:42 GMT+0530 (India Standard Time) 185ms ID :  47  URL :  http://grants.com Time Taken :  1833 ms :->  TOTAL TIME : 515173ms T.Batch : 11
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 196ms ID :  48  Title :  Zustimmung der Cookies | VierZwo  URL :  https://www.fdp-saarpfalz.de MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 196ms ID :  48  Title :  Zustimmung der Cookies | VierZwo  URL :  https://www.fdp-saarpfalz.de MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 197ms ID :  48  Title :  Zustimmung der Cookies | VierZwo  URL :  https://www.fdp-saarpfalz.de MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 197ms ID :  48  Title :  Zustimmung der Cookies | VierZwo  URL :  https://www.fdp-saarpfalz.de MSG :  END OF LOG
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 197ms ID :  48  Code :  200  Title :  Zustimmung der Cookies | VierZwo  Length :  15318
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 207ms ID :  48  Title :  Zustimmung der Cookies | VierZwo  URL :  https://www.fdp-saarpfalz.de MSG :  ENDED!!
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 207ms ID :  48  URL :  https://www.fdp-saarpfalz.de Time Taken :  2855 ms :->  Avg.Time : 2855ms belongs to : 46 orders OUTOF 48 orders
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 208ms ID :  48  URL :  https://www.fdp-saarpfalz.de Time Taken :  2855 ms :->  TOTAL TIME : 518028ms T.Batch : 11
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 915ms ID :  46  Title :  Kreativagentur Designskills  URL :  https://www.designskills.at MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 916ms ID :  46  Title :  Kreativagentur Designskills  URL :  https://www.designskills.at MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 920ms ID :  46  Title :  Kreativagentur Designskills  URL :  https://www.designskills.at MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 920ms ID :  46  Title :  Kreativagentur Designskills  URL :  https://www.designskills.at MSG :  END OF LOG
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 920ms ID :  46  Code :  200  Title :  Kreativagentur Designskills  Length :  113870
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 939ms ID :  46  Title :  Kreativagentur Designskills  URL :  https://www.designskills.at MSG :  ENDED!!
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 939ms ID :  46  URL :  https://www.designskills.at Time Taken :  3587 ms :->  Avg.Time : 3587ms belongs to : 47 orders OUTOF 48 orders
+Tue Sep 17 2024 13:01:43 GMT+0530 (India Standard Time) 939ms ID :  46  URL :  https://www.designskills.at Time Taken :  3587 ms :->  TOTAL TIME : 521615ms T.Batch : 11
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 364ms ID :  45  Title :  Courier Services Manchester | Same Day Courier | Delivery  URL :  https://courierservicemanchester.co.uk MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 364ms ID :  45  Title :  Courier Services Manchester | Same Day Courier | Delivery  URL :  https://courierservicemanchester.co.uk MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 365ms ID :  45  Title :  Courier Services Manchester | Same Day Courier | Delivery  URL :  https://courierservicemanchester.co.uk MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 366ms ID :  45  Title :  Courier Services Manchester | Same Day Courier | Delivery  URL :  https://courierservicemanchester.co.uk MSG :  END OF LOG
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 366ms ID :  45  Code :  200  Title :  Courier Services Manchester | Same Day Courier | Delivery  Length :  37607
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 376ms ID :  45  Title :  Courier Services Manchester | Same Day Courier | Delivery  URL :  https://courierservicemanchester.co.uk MSG :  ENDED!!
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 376ms ID :  45  URL :  https://courierservicemanchester.co.uk Time Taken :  5025 ms :->  Avg.Time : 5025ms belongs to : 48 orders OUTOF 48 orders
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 376ms ID :  45  URL :  https://courierservicemanchester.co.uk Time Taken :  5025 ms :->  TOTAL TIME : 526640ms T.Batch : 12
+Batch  13  Strated
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 491ms ID :  50  Title :    URL :  https://leonbritton.com MSG :  Init Done
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 491ms ID :  50  Title :    URL :  https://leonbritton.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 491ms ID :  52  Title :    URL :  http://www.noodleplant.com MSG :  Init Done
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 491ms ID :  52  Title :    URL :  http://www.noodleplant.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 491ms ID :  49  Title :    URL :  https://law123.co.uk MSG :  Init Done
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 491ms ID :  49  Title :    URL :  https://law123.co.uk MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 491ms ID :  51  Title :    URL :  https://rubino-restaurant.de MSG :  Init Done
+Tue Sep 17 2024 13:01:45 GMT+0530 (India Standard Time) 491ms ID :  51  Title :    URL :  https://rubino-restaurant.de MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 704ms ID :  51  Title :  Rubino Restaurant | Italienische Küche, Pizzeria, Restaurant  URL :  https://rubino-restaurant.de MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 704ms ID :  51  Title :  Rubino Restaurant | Italienische Küche, Pizzeria, Restaurant  URL :  https://rubino-restaurant.de MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 707ms ID :  51  Title :  Rubino Restaurant | Italienische Küche, Pizzeria, Restaurant  URL :  https://rubino-restaurant.de MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 707ms ID :  51  Title :  Rubino Restaurant | Italienische Küche, Pizzeria, Restaurant  URL :  https://rubino-restaurant.de MSG :  END OF LOG
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 707ms ID :  51  Code :  200  Title :  Rubino Restaurant | Italienische Küche, Pizzeria, Restaurant  Length :  58702
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 716ms ID :  51  Title :  Rubino Restaurant | Italienische Küche, Pizzeria, Restaurant  URL :  https://rubino-restaurant.de MSG :  ENDED!!
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 716ms ID :  51  URL :  https://rubino-restaurant.de Time Taken :  2225 ms :->  Avg.Time : 2225ms belongs to : 49 orders OUTOF 52 orders
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 716ms ID :  51  URL :  https://rubino-restaurant.de Time Taken :  2225 ms :->  TOTAL TIME : 528865ms T.Batch : 12
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 876ms ID :  49  Title :  Rossides Caine Solicitors  URL :  https://law123.co.uk MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 876ms ID :  49  Title :  Rossides Caine Solicitors  URL :  https://law123.co.uk MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 878ms ID :  49  Title :  Rossides Caine Solicitors  URL :  https://law123.co.uk MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 878ms ID :  49  Title :  Rossides Caine Solicitors  URL :  https://law123.co.uk MSG :  END OF LOG
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 878ms ID :  49  Code :  200  Title :  Rossides Caine Solicitors  Length :  87211
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 889ms ID :  49  Title :  Rossides Caine Solicitors  URL :  https://law123.co.uk MSG :  ENDED!!
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 889ms ID :  49  URL :  https://law123.co.uk Time Taken :  2398 ms :->  Avg.Time : 2398ms belongs to : 50 orders OUTOF 52 orders
+Tue Sep 17 2024 13:01:47 GMT+0530 (India Standard Time) 889ms ID :  49  URL :  https://law123.co.uk Time Taken :  2398 ms :->  TOTAL TIME : 531263ms T.Batch : 12
+Tue Sep 17 2024 13:01:49 GMT+0530 (India Standard Time) 288ms ID :  50  Title :  Liverpool Headshot Portrait Wedding Commercial Photographer  URL :  https://leonbritton.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:49 GMT+0530 (India Standard Time) 288ms ID :  50  Title :  Liverpool Headshot Portrait Wedding Commercial Photographer  URL :  https://leonbritton.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:49 GMT+0530 (India Standard Time) 295ms ID :  50  Title :  Liverpool Headshot Portrait Wedding Commercial Photographer  URL :  https://leonbritton.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:49 GMT+0530 (India Standard Time) 295ms ID :  50  Title :  Liverpool Headshot Portrait Wedding Commercial Photographer  URL :  https://leonbritton.com MSG :  END OF LOG
+Tue Sep 17 2024 13:01:49 GMT+0530 (India Standard Time) 295ms ID :  50  Code :  200  Title :  Liverpool Headshot Portrait Wedding Commercial Photographer  Length :  271006
+Tue Sep 17 2024 13:01:49 GMT+0530 (India Standard Time) 308ms ID :  50  Title :  Liverpool Headshot Portrait Wedding Commercial Photographer  URL :  https://leonbritton.com MSG :  ENDED!!
+Tue Sep 17 2024 13:01:49 GMT+0530 (India Standard Time) 308ms ID :  50  URL :  https://leonbritton.com Time Taken :  3817 ms :->  Avg.Time : 3817ms belongs to : 51 orders OUTOF 52 orders
+Tue Sep 17 2024 13:01:49 GMT+0530 (India Standard Time) 308ms ID :  50  URL :  https://leonbritton.com Time Taken :  3817 ms :->  TOTAL TIME : 535080ms T.Batch : 12
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 44ms ID :  52  Title :  Máquina de fideos de China, cortadora de fideos, máquina de prensa de aceite, fabricantes y fábrica de máquinas empacadoras - Zhengzhou Kingdoo Machinery Co., Ltd  URL :  http://www.noodleplant.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 52ms ID :  52  Title :  Máquina de fideos de China, cortadora de fideos, máquina de prensa de aceite, fabricantes y fábrica de máquinas empacadoras - Zhengzhou Kingdoo Machinery Co., Ltd  URL :  http://www.noodleplant.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 54ms ID :  52  Title :  Máquina de fideos de China, cortadora de fideos, máquina de prensa de aceite, fabricantes y fábrica de máquinas empacadoras - Zhengzhou Kingdoo Machinery Co., Ltd  URL :  http://www.noodleplant.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 54ms ID :  52  Title :  Máquina de fideos de China, cortadora de fideos, máquina de prensa de aceite, fabricantes y fábrica de máquinas empacadoras - Zhengzhou Kingdoo Machinery Co., Ltd  URL :  http://www.noodleplant.com MSG :  END OF LOG
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 54ms ID :  52  Code :  200  Title :  Máquina de fideos de China, cortadora de fideos, máquina de prensa de aceite, fabricantes y fábrica de máquinas empacadoras - Zhengzhou Kingdoo Machinery Co., Ltd  Length :  24853
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 62ms ID :  52  Title :  Máquina de fideos de China, cortadora de fideos, máquina de prensa de aceite, fabricantes y fábrica de máquinas empacadoras - Zhengzhou Kingdoo Machinery Co., Ltd  URL :  http://www.noodleplant.com MSG :  ENDED!!
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 62ms ID :  52  URL :  http://www.noodleplant.com Time Taken :  7571 ms :->  Avg.Time : 7571ms belongs to : 52 orders OUTOF 52 orders
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 62ms ID :  52  URL :  http://www.noodleplant.com Time Taken :  7571 ms :->  TOTAL TIME : 542651ms T.Batch : 13
+Batch  14  Strated
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 178ms ID :  55  Title :    URL :  https://www.asilonidomoscacieca.it MSG :  Init Done
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 178ms ID :  55  Title :    URL :  https://www.asilonidomoscacieca.it MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 178ms ID :  53  Title :    URL :  https://www.reillyconstruction.biz MSG :  Init Done
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 178ms ID :  53  Title :    URL :  https://www.reillyconstruction.biz MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 178ms ID :  54  Title :    URL :  http://www.a-ni.com MSG :  Init Done
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 178ms ID :  54  Title :    URL :  http://www.a-ni.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 178ms ID :  56  Title :    URL :  https://www.riolis.com MSG :  Init Done
+Tue Sep 17 2024 13:01:53 GMT+0530 (India Standard Time) 178ms ID :  56  Title :    URL :  https://www.riolis.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:01:56 GMT+0530 (India Standard Time) 887ms ID :  55  Title :  asilo nido Moscacieca  URL :  https://www.asilonidomoscacieca.it MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:56 GMT+0530 (India Standard Time) 896ms ID :  55  Title :  asilo nido Moscacieca  URL :  https://www.asilonidomoscacieca.it MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:56 GMT+0530 (India Standard Time) 897ms ID :  55  Title :  asilo nido Moscacieca  URL :  https://www.asilonidomoscacieca.it MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:56 GMT+0530 (India Standard Time) 897ms ID :  55  Title :  asilo nido Moscacieca  URL :  https://www.asilonidomoscacieca.it MSG :  END OF LOG
+Tue Sep 17 2024 13:01:56 GMT+0530 (India Standard Time) 897ms ID :  55  Code :  200  Title :  asilo nido Moscacieca  Length :  13829
+Tue Sep 17 2024 13:01:56 GMT+0530 (India Standard Time) 907ms ID :  55  Title :  asilo nido Moscacieca  URL :  https://www.asilonidomoscacieca.it MSG :  ENDED!!
+Tue Sep 17 2024 13:01:56 GMT+0530 (India Standard Time) 907ms ID :  55  URL :  https://www.asilonidomoscacieca.it Time Taken :  3729 ms :->  Avg.Time : 3729ms belongs to : 53 orders OUTOF 56 orders
+Tue Sep 17 2024 13:01:56 GMT+0530 (India Standard Time) 907ms ID :  55  URL :  https://www.asilonidomoscacieca.it Time Taken :  3729 ms :->  TOTAL TIME : 546380ms T.Batch : 13
+Tue Sep 17 2024 13:01:57 GMT+0530 (India Standard Time) 620ms ID :  53  Title :  General Contractor Chester County PA | Local Construction Company  URL :  https://www.reillyconstruction.biz MSG :  GOTO Finished
+Tue Sep 17 2024 13:01:57 GMT+0530 (India Standard Time) 620ms ID :  53  Title :  General Contractor Chester County PA | Local Construction Company  URL :  https://www.reillyconstruction.biz MSG :  Extraction Strated
+Tue Sep 17 2024 13:01:57 GMT+0530 (India Standard Time) 622ms ID :  53  Title :  General Contractor Chester County PA | Local Construction Company  URL :  https://www.reillyconstruction.biz MSG :  Extraction Done!!
+Tue Sep 17 2024 13:01:57 GMT+0530 (India Standard Time) 622ms ID :  53  Title :  General Contractor Chester County PA | Local Construction Company  URL :  https://www.reillyconstruction.biz MSG :  END OF LOG
+Tue Sep 17 2024 13:01:57 GMT+0530 (India Standard Time) 622ms ID :  53  Code :  200  Title :  General Contractor Chester County PA | Local Construction Company  Length :  49186
+Tue Sep 17 2024 13:01:57 GMT+0530 (India Standard Time) 642ms ID :  53  Title :  General Contractor Chester County PA | Local Construction Company  URL :  https://www.reillyconstruction.biz MSG :  ENDED!!
+Tue Sep 17 2024 13:01:57 GMT+0530 (India Standard Time) 643ms ID :  53  URL :  https://www.reillyconstruction.biz Time Taken :  4465 ms :->  Avg.Time : 4465ms belongs to : 54 orders OUTOF 56 orders
+Tue Sep 17 2024 13:01:57 GMT+0530 (India Standard Time) 643ms ID :  53  URL :  https://www.reillyconstruction.biz Time Taken :  4465 ms :->  TOTAL TIME : 550845ms T.Batch : 13
+Tue Sep 17 2024 13:02:00 GMT+0530 (India Standard Time) 370ms ID :  56  Title :  RIOLIS - Needlework and Diamond Mosaic kits - New Arrival  URL :  https://www.riolis.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:02:00 GMT+0530 (India Standard Time) 370ms ID :  56  Title :  RIOLIS - Needlework and Diamond Mosaic kits - New Arrival  URL :  https://www.riolis.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:02:00 GMT+0530 (India Standard Time) 372ms ID :  56  Title :  RIOLIS - Needlework and Diamond Mosaic kits - New Arrival  URL :  https://www.riolis.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:02:00 GMT+0530 (India Standard Time) 372ms ID :  56  Title :  RIOLIS - Needlework and Diamond Mosaic kits - New Arrival  URL :  https://www.riolis.com MSG :  END OF LOG
+Tue Sep 17 2024 13:02:00 GMT+0530 (India Standard Time) 372ms ID :  56  Code :  200  Title :  RIOLIS - Needlework and Diamond Mosaic kits - New Arrival  Length :  44961
+Tue Sep 17 2024 13:02:00 GMT+0530 (India Standard Time) 379ms ID :  56  Title :  RIOLIS - Needlework and Diamond Mosaic kits - New Arrival  URL :  https://www.riolis.com MSG :  ENDED!!
+Tue Sep 17 2024 13:02:00 GMT+0530 (India Standard Time) 380ms ID :  56  URL :  https://www.riolis.com Time Taken :  7202 ms :->  Avg.Time : 7202ms belongs to : 55 orders OUTOF 56 orders
+Tue Sep 17 2024 13:02:00 GMT+0530 (India Standard Time) 380ms ID :  56  URL :  https://www.riolis.com Time Taken :  7202 ms :->  TOTAL TIME : 558047ms T.Batch : 13
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 227ms ID :  54  Title :    URL :  http://www.a-ni.com MSG :  ERROR : Scrap : Navigation timeout of 60000 ms exceeded
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 235ms ID :  54  Title :    URL :  http://www.a-ni.com MSG :  END OF LOG
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 235ms ID :  54  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 244ms ID :  54  Title :    URL :  http://www.a-ni.com MSG :  ENDED!!
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 244ms ID :  54  URL :  http://www.a-ni.com Time Taken :  60066 ms :->  Avg.Time : 60066ms belongs to : 56 orders OUTOF 56 orders
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 244ms ID :  54  URL :  http://www.a-ni.com Time Taken :  60066 ms :->  TOTAL TIME : 618113ms T.Batch : 14
+Batch  15  Strated
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 354ms ID :  57  Title :    URL :  https://www.nicholasbuildersinc.com MSG :  Init Done
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 354ms ID :  57  Title :    URL :  https://www.nicholasbuildersinc.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 354ms ID :  59  Title :    URL :  http://www.red-res.es MSG :  Init Done
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 354ms ID :  59  Title :    URL :  http://www.red-res.es MSG :  GOTO Strated
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 354ms ID :  58  Title :    URL :  http://www.elektro-mm.de MSG :  Init Done
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 354ms ID :  58  Title :    URL :  http://www.elektro-mm.de MSG :  GOTO Strated
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 355ms ID :  60  Title :    URL :  https://target.sh MSG :  Init Done
+Tue Sep 17 2024 13:02:53 GMT+0530 (India Standard Time) 355ms ID :  60  Title :    URL :  https://target.sh MSG :  GOTO Strated
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 326ms ID :  58  Title :  Elektroinstallation und Kommunikationstechnik Michael Müller in Treuen - Start  URL :  http://www.elektro-mm.de MSG :  GOTO Finished
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 326ms ID :  58  Title :  Elektroinstallation und Kommunikationstechnik Michael Müller in Treuen - Start  URL :  http://www.elektro-mm.de MSG :  Extraction Strated
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 328ms ID :  58  Title :  Elektroinstallation und Kommunikationstechnik Michael Müller in Treuen - Start  URL :  http://www.elektro-mm.de MSG :  Extraction Done!!
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 328ms ID :  58  Title :  Elektroinstallation und Kommunikationstechnik Michael Müller in Treuen - Start  URL :  http://www.elektro-mm.de MSG :  END OF LOG
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 328ms ID :  58  Code :  200  Title :  Elektroinstallation und Kommunikationstechnik Michael Müller in Treuen - Start  Length :  9009
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 336ms ID :  58  Title :  Elektroinstallation und Kommunikationstechnik Michael Müller in Treuen - Start  URL :  http://www.elektro-mm.de MSG :  ENDED!!
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 336ms ID :  58  URL :  http://www.elektro-mm.de Time Taken :  2982 ms :->  Avg.Time : 2982ms belongs to : 57 orders OUTOF 60 orders
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 336ms ID :  58  URL :  http://www.elektro-mm.de Time Taken :  2982 ms :->  TOTAL TIME : 621095ms T.Batch : 14
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 979ms ID :  60  Title :    URL :  https://target.sh MSG :  ERROR : Scrap : net::ERR_CERT_DATE_INVALID at https://target.sh
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 980ms ID :  60  Title :    URL :  https://target.sh MSG :  END OF LOG
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 980ms ID :  60  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 992ms ID :  60  Title :    URL :  https://target.sh MSG :  ENDED!!
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 992ms ID :  60  URL :  https://target.sh Time Taken :  3637 ms :->  Avg.Time : 3637ms belongs to : 58 orders OUTOF 60 orders
+Tue Sep 17 2024 13:02:56 GMT+0530 (India Standard Time) 992ms ID :  60  URL :  https://target.sh Time Taken :  3637 ms :->  TOTAL TIME : 624732ms T.Batch : 14
+Tue Sep 17 2024 13:03:23 GMT+0530 (India Standard Time) 360ms ID :  57  Title :    URL :  https://www.nicholasbuildersinc.com MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at https://www.nicholasbuildersinc.com
+Tue Sep 17 2024 13:03:23 GMT+0530 (India Standard Time) 368ms ID :  57  Title :    URL :  https://www.nicholasbuildersinc.com MSG :  END OF LOG
+Tue Sep 17 2024 13:03:23 GMT+0530 (India Standard Time) 368ms ID :  57  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:03:23 GMT+0530 (India Standard Time) 378ms ID :  57  Title :    URL :  https://www.nicholasbuildersinc.com MSG :  ENDED!!
+Tue Sep 17 2024 13:03:23 GMT+0530 (India Standard Time) 378ms ID :  57  URL :  https://www.nicholasbuildersinc.com Time Taken :  30024 ms :->  Avg.Time : 30024ms belongs to : 59 orders OUTOF 60 orders
+Tue Sep 17 2024 13:03:23 GMT+0530 (India Standard Time) 378ms ID :  57  URL :  https://www.nicholasbuildersinc.com Time Taken :  30024 ms :->  TOTAL TIME : 654756ms T.Batch : 14
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 376ms ID :  59  Title :    URL :  http://www.red-res.es MSG :  ERROR : Scrap : Navigation timeout of 60000 ms exceeded
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 384ms ID :  59  Title :    URL :  http://www.red-res.es MSG :  END OF LOG
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 384ms ID :  59  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 392ms ID :  59  Title :    URL :  http://www.red-res.es MSG :  ENDED!!
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 392ms ID :  59  URL :  http://www.red-res.es Time Taken :  60038 ms :->  Avg.Time : 60038ms belongs to : 60 orders OUTOF 60 orders
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 392ms ID :  59  URL :  http://www.red-res.es Time Taken :  60038 ms :->  TOTAL TIME : 714794ms T.Batch : 15
+Batch  16  Strated
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 507ms ID :  61  Title :    URL :  https://www.yesds.com MSG :  Init Done
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 507ms ID :  61  Title :    URL :  https://www.yesds.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 507ms ID :  64  Title :    URL :  http://www.newhampshirerto.com MSG :  Init Done
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 507ms ID :  64  Title :    URL :  http://www.newhampshirerto.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 507ms ID :  62  Title :    URL :  http://www.manpowersolution.co.uk MSG :  Init Done
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 507ms ID :  62  Title :    URL :  http://www.manpowersolution.co.uk MSG :  GOTO Strated
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 507ms ID :  63  Title :    URL :  http://www.konfuzo.net MSG :  Init Done
+Tue Sep 17 2024 13:03:53 GMT+0530 (India Standard Time) 508ms ID :  63  Title :    URL :  http://www.konfuzo.net MSG :  GOTO Strated
+Tue Sep 17 2024 13:03:55 GMT+0530 (India Standard Time) 247ms ID :  63  Title :  Konfuzo Consulting  URL :  http://www.konfuzo.net MSG :  GOTO Finished
+Tue Sep 17 2024 13:03:55 GMT+0530 (India Standard Time) 248ms ID :  63  Title :  Konfuzo Consulting  URL :  http://www.konfuzo.net MSG :  Extraction Strated
+Tue Sep 17 2024 13:03:55 GMT+0530 (India Standard Time) 248ms ID :  63  Title :  Konfuzo Consulting  URL :  http://www.konfuzo.net MSG :  Extraction Done!!
+Tue Sep 17 2024 13:03:55 GMT+0530 (India Standard Time) 249ms ID :  63  Title :  Konfuzo Consulting  URL :  http://www.konfuzo.net MSG :  END OF LOG
+Tue Sep 17 2024 13:03:55 GMT+0530 (India Standard Time) 249ms ID :  63  Code :  200  Title :  Konfuzo Consulting  Length :  3905
+Tue Sep 17 2024 13:03:55 GMT+0530 (India Standard Time) 256ms ID :  63  Title :  Konfuzo Consulting  URL :  http://www.konfuzo.net MSG :  ENDED!!
+Tue Sep 17 2024 13:03:55 GMT+0530 (India Standard Time) 256ms ID :  63  URL :  http://www.konfuzo.net Time Taken :  1748 ms :->  Avg.Time : 1748ms belongs to : 61 orders OUTOF 64 orders
+Tue Sep 17 2024 13:03:55 GMT+0530 (India Standard Time) 256ms ID :  63  URL :  http://www.konfuzo.net Time Taken :  1748 ms :->  TOTAL TIME : 716542ms T.Batch : 15
+Tue Sep 17 2024 13:03:56 GMT+0530 (India Standard Time) 98ms ID :  64  Title :  NewHampshireRTO.com is a strong, memorable brandable name. This domain could be yours!  URL :  http://www.newhampshirerto.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:03:56 GMT+0530 (India Standard Time) 98ms ID :  64  Title :  NewHampshireRTO.com is a strong, memorable brandable name. This domain could be yours!  URL :  http://www.newhampshirerto.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:03:56 GMT+0530 (India Standard Time) 100ms ID :  64  Title :  NewHampshireRTO.com is a strong, memorable brandable name. This domain could be yours!  URL :  http://www.newhampshirerto.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:03:56 GMT+0530 (India Standard Time) 101ms ID :  64  Title :  NewHampshireRTO.com is a strong, memorable brandable name. This domain could be yours!  URL :  http://www.newhampshirerto.com MSG :  END OF LOG
+Tue Sep 17 2024 13:03:56 GMT+0530 (India Standard Time) 101ms ID :  64  Code :  200  Title :  NewHampshireRTO.com is a strong, memorable brandable name. This domain could be yours!  Length :  4944
+Tue Sep 17 2024 13:03:56 GMT+0530 (India Standard Time) 109ms ID :  64  Title :  NewHampshireRTO.com is a strong, memorable brandable name. This domain could be yours!  URL :  http://www.newhampshirerto.com MSG :  ENDED!!
+Tue Sep 17 2024 13:03:56 GMT+0530 (India Standard Time) 109ms ID :  64  URL :  http://www.newhampshirerto.com Time Taken :  2602 ms :->  Avg.Time : 2602ms belongs to : 62 orders OUTOF 64 orders
+Tue Sep 17 2024 13:03:56 GMT+0530 (India Standard Time) 109ms ID :  64  URL :  http://www.newhampshirerto.com Time Taken :  2602 ms :->  TOTAL TIME : 719144ms T.Batch : 15
+Tue Sep 17 2024 13:03:57 GMT+0530 (India Standard Time) 699ms ID :  62  Title :  Manpower | Home  URL :  http://www.manpowersolution.co.uk MSG :  GOTO Finished
+Tue Sep 17 2024 13:03:57 GMT+0530 (India Standard Time) 699ms ID :  62  Title :  Manpower | Home  URL :  http://www.manpowersolution.co.uk MSG :  Extraction Strated
+Tue Sep 17 2024 13:03:57 GMT+0530 (India Standard Time) 701ms ID :  62  Title :  Manpower | Home  URL :  http://www.manpowersolution.co.uk MSG :  Extraction Done!!
+Tue Sep 17 2024 13:03:57 GMT+0530 (India Standard Time) 701ms ID :  62  Title :  Manpower | Home  URL :  http://www.manpowersolution.co.uk MSG :  END OF LOG
+Tue Sep 17 2024 13:03:57 GMT+0530 (India Standard Time) 701ms ID :  62  Code :  200  Title :  Manpower | Home  Length :  19445
+Tue Sep 17 2024 13:03:57 GMT+0530 (India Standard Time) 709ms ID :  62  Title :  Manpower | Home  URL :  http://www.manpowersolution.co.uk MSG :  ENDED!!
+Tue Sep 17 2024 13:03:57 GMT+0530 (India Standard Time) 709ms ID :  62  URL :  http://www.manpowersolution.co.uk Time Taken :  4202 ms :->  Avg.Time : 4202ms belongs to : 63 orders OUTOF 64 orders
+Tue Sep 17 2024 13:03:57 GMT+0530 (India Standard Time) 709ms ID :  62  URL :  http://www.manpowersolution.co.uk Time Taken :  4202 ms :->  TOTAL TIME : 723346ms T.Batch : 15
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 65ms ID :  61  Title :  Professional Wedding Photography, XV , Quinceañeras  URL :  https://www.yesds.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 65ms ID :  61  Title :  Professional Wedding Photography, XV , Quinceañeras  URL :  https://www.yesds.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 69ms ID :  61  Title :  Professional Wedding Photography, XV , Quinceañeras  URL :  https://www.yesds.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 69ms ID :  61  Title :  Professional Wedding Photography, XV , Quinceañeras  URL :  https://www.yesds.com MSG :  END OF LOG
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 69ms ID :  61  Code :  200  Title :  Professional Wedding Photography, XV , Quinceañeras  Length :  133853
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 82ms ID :  61  Title :  Professional Wedding Photography, XV , Quinceañeras  URL :  https://www.yesds.com MSG :  ENDED!!
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 83ms ID :  61  URL :  https://www.yesds.com Time Taken :  5576 ms :->  Avg.Time : 5576ms belongs to : 64 orders OUTOF 64 orders
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 83ms ID :  61  URL :  https://www.yesds.com Time Taken :  5576 ms :->  TOTAL TIME : 728922ms T.Batch : 16
+Batch  17  Strated
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 199ms ID :  68  Title :    URL :  https://www.fnimmobilien.de MSG :  Init Done
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 199ms ID :  68  Title :    URL :  https://www.fnimmobilien.de MSG :  GOTO Strated
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 199ms ID :  65  Title :    URL :  https://www.unitherm.hr MSG :  Init Done
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 199ms ID :  65  Title :    URL :  https://www.unitherm.hr MSG :  GOTO Strated
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 200ms ID :  67  Title :    URL :  https://www.haustechnik-mkn.de MSG :  Init Done
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 200ms ID :  67  Title :    URL :  https://www.haustechnik-mkn.de MSG :  GOTO Strated
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 200ms ID :  66  Title :    URL :  http://team.construction MSG :  Init Done
+Tue Sep 17 2024 13:03:59 GMT+0530 (India Standard Time) 200ms ID :  66  Title :    URL :  http://team.construction MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:02 GMT+0530 (India Standard Time) 320ms ID :  66  Title :  Team Construction – The solution for your exterior construction needs.  URL :  http://team.construction MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:02 GMT+0530 (India Standard Time) 329ms ID :  66  Title :  Team Construction – The solution for your exterior construction needs.  URL :  http://team.construction MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:02 GMT+0530 (India Standard Time) 331ms ID :  66  Title :  Team Construction – The solution for your exterior construction needs.  URL :  http://team.construction MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:02 GMT+0530 (India Standard Time) 331ms ID :  66  Title :  Team Construction – The solution for your exterior construction needs.  URL :  http://team.construction MSG :  END OF LOG
+Tue Sep 17 2024 13:04:02 GMT+0530 (India Standard Time) 331ms ID :  66  Code :  200  Title :  Team Construction – The solution for your exterior construction needs.  Length :  70875
+Tue Sep 17 2024 13:04:02 GMT+0530 (India Standard Time) 338ms ID :  66  Title :  Team Construction – The solution for your exterior construction needs.  URL :  http://team.construction MSG :  ENDED!!
+Tue Sep 17 2024 13:04:02 GMT+0530 (India Standard Time) 338ms ID :  66  URL :  http://team.construction Time Taken :  3138 ms :->  Avg.Time : 3138ms belongs to : 65 orders OUTOF 68 orders
+Tue Sep 17 2024 13:04:02 GMT+0530 (India Standard Time) 338ms ID :  66  URL :  http://team.construction Time Taken :  3138 ms :->  TOTAL TIME : 732060ms T.Batch : 16
+Tue Sep 17 2024 13:04:03 GMT+0530 (India Standard Time) 235ms ID :  68  Title :  FN Immobilien Christine Niessen  URL :  https://www.fnimmobilien.de MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:03 GMT+0530 (India Standard Time) 235ms ID :  68  Title :  FN Immobilien Christine Niessen  URL :  https://www.fnimmobilien.de MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:03 GMT+0530 (India Standard Time) 236ms ID :  68  Title :  FN Immobilien Christine Niessen  URL :  https://www.fnimmobilien.de MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:03 GMT+0530 (India Standard Time) 236ms ID :  68  Title :  FN Immobilien Christine Niessen  URL :  https://www.fnimmobilien.de MSG :  END OF LOG
+Tue Sep 17 2024 13:04:03 GMT+0530 (India Standard Time) 236ms ID :  68  Code :  200  Title :  FN Immobilien Christine Niessen  Length :  9337
+Tue Sep 17 2024 13:04:03 GMT+0530 (India Standard Time) 249ms ID :  68  Title :  FN Immobilien Christine Niessen  URL :  https://www.fnimmobilien.de MSG :  ENDED!!
+Tue Sep 17 2024 13:04:03 GMT+0530 (India Standard Time) 249ms ID :  68  URL :  https://www.fnimmobilien.de Time Taken :  4050 ms :->  Avg.Time : 4050ms belongs to : 66 orders OUTOF 68 orders
+Tue Sep 17 2024 13:04:03 GMT+0530 (India Standard Time) 249ms ID :  68  URL :  https://www.fnimmobilien.de Time Taken :  4050 ms :->  TOTAL TIME : 736110ms T.Batch : 16
+Tue Sep 17 2024 13:04:06 GMT+0530 (India Standard Time) 516ms ID :  65  Title :  Unitherm Ciglana Cerje Tužno d.d. - Proizvodnja i prodaja opekarskih proizvoda za nosive i pregradne zidove te stropne elemente  URL :  https://www.unitherm.hr MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:06 GMT+0530 (India Standard Time) 516ms ID :  65  Title :  Unitherm Ciglana Cerje Tužno d.d. - Proizvodnja i prodaja opekarskih proizvoda za nosive i pregradne zidove te stropne elemente  URL :  https://www.unitherm.hr MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:06 GMT+0530 (India Standard Time) 518ms ID :  65  Title :  Unitherm Ciglana Cerje Tužno d.d. - Proizvodnja i prodaja opekarskih proizvoda za nosive i pregradne zidove te stropne elemente  URL :  https://www.unitherm.hr MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:06 GMT+0530 (India Standard Time) 519ms ID :  65  Title :  Unitherm Ciglana Cerje Tužno d.d. - Proizvodnja i prodaja opekarskih proizvoda za nosive i pregradne zidove te stropne elemente  URL :  https://www.unitherm.hr MSG :  END OF LOG
+Tue Sep 17 2024 13:04:06 GMT+0530 (India Standard Time) 519ms ID :  65  Code :  200  Title :  Unitherm Ciglana Cerje Tužno d.d. - Proizvodnja i prodaja opekarskih proizvoda za nosive i pregradne zidove te stropne elemente  Length :  23706
+Tue Sep 17 2024 13:04:06 GMT+0530 (India Standard Time) 528ms ID :  65  Title :  Unitherm Ciglana Cerje Tužno d.d. - Proizvodnja i prodaja opekarskih proizvoda za nosive i pregradne zidove te stropne elemente  URL :  https://www.unitherm.hr MSG :  ENDED!!
+Tue Sep 17 2024 13:04:06 GMT+0530 (India Standard Time) 528ms ID :  65  URL :  https://www.unitherm.hr Time Taken :  7329 ms :->  Avg.Time : 7329ms belongs to : 67 orders OUTOF 68 orders
+Tue Sep 17 2024 13:04:06 GMT+0530 (India Standard Time) 529ms ID :  65  URL :  https://www.unitherm.hr Time Taken :  7329 ms :->  TOTAL TIME : 743439ms T.Batch : 16
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 392ms ID :  67  Title :  Haustechnik Markneukirchen Michael Bechert & Uwe Wunderlich GbR  URL :  https://www.haustechnik-mkn.de MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 392ms ID :  67  Title :  Haustechnik Markneukirchen Michael Bechert & Uwe Wunderlich GbR  URL :  https://www.haustechnik-mkn.de MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 407ms ID :  67  Title :  Haustechnik Markneukirchen Michael Bechert & Uwe Wunderlich GbR  URL :  https://www.haustechnik-mkn.de MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 408ms ID :  67  Title :  Haustechnik Markneukirchen Michael Bechert & Uwe Wunderlich GbR  URL :  https://www.haustechnik-mkn.de MSG :  END OF LOG
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 408ms ID :  67  Code :  200  Title :  Haustechnik Markneukirchen Michael Bechert & Uwe Wunderlich GbR  Length :  565547
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 419ms ID :  67  Title :  Haustechnik Markneukirchen Michael Bechert & Uwe Wunderlich GbR  URL :  https://www.haustechnik-mkn.de MSG :  ENDED!!
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 419ms ID :  67  URL :  https://www.haustechnik-mkn.de Time Taken :  10219 ms :->  Avg.Time : 10219ms belongs to : 68 orders OUTOF 68 orders
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 419ms ID :  67  URL :  https://www.haustechnik-mkn.de Time Taken :  10219 ms :->  TOTAL TIME : 753658ms T.Batch : 17
+Batch  18  Strated
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 544ms ID :  69  Title :    URL :  https://steven-porwol.com MSG :  Init Done
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 544ms ID :  69  Title :    URL :  https://steven-porwol.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 544ms ID :  70  Title :    URL :  https://www.zweiwerk.net MSG :  Init Done
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 544ms ID :  70  Title :    URL :  https://www.zweiwerk.net MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 544ms ID :  71  Title :    URL :  https://biancablythebooks.com MSG :  Init Done
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 544ms ID :  71  Title :    URL :  https://biancablythebooks.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 544ms ID :  72  Title :    URL :  https://graphopress.nl MSG :  Init Done
+Tue Sep 17 2024 13:04:09 GMT+0530 (India Standard Time) 544ms ID :  72  Title :    URL :  https://graphopress.nl MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 198ms ID :  71  Title :  Bianca Blythe - Author of Delightful Regency Romances  URL :  https://biancablythebooks.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 207ms ID :  71  Title :  Bianca Blythe - Author of Delightful Regency Romances  URL :  https://biancablythebooks.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 216ms ID :  71  Title :  Bianca Blythe - Author of Delightful Regency Romances  URL :  https://biancablythebooks.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 216ms ID :  71  Title :  Bianca Blythe - Author of Delightful Regency Romances  URL :  https://biancablythebooks.com MSG :  END OF LOG
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 216ms ID :  71  Code :  200  Title :  Bianca Blythe - Author of Delightful Regency Romances  Length :  235990
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 232ms ID :  71  Title :  Bianca Blythe - Author of Delightful Regency Romances  URL :  https://biancablythebooks.com MSG :  ENDED!!
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 232ms ID :  71  URL :  https://biancablythebooks.com Time Taken :  2688 ms :->  Avg.Time : 2688ms belongs to : 69 orders OUTOF 72 orders
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 232ms ID :  71  URL :  https://biancablythebooks.com Time Taken :  2688 ms :->  TOTAL TIME : 756346ms T.Batch : 17
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 517ms ID :  70  Title :  zwei²Werk Architekten - STARTSEITE  URL :  https://www.zweiwerk.net MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 517ms ID :  70  Title :  zwei²Werk Architekten - STARTSEITE  URL :  https://www.zweiwerk.net MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 519ms ID :  70  Title :  zwei²Werk Architekten - STARTSEITE  URL :  https://www.zweiwerk.net MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 519ms ID :  70  Title :  zwei²Werk Architekten - STARTSEITE  URL :  https://www.zweiwerk.net MSG :  END OF LOG
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 519ms ID :  70  Code :  200  Title :  zwei²Werk Architekten - STARTSEITE  Length :  34372
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 528ms ID :  70  Title :  zwei²Werk Architekten - STARTSEITE  URL :  https://www.zweiwerk.net MSG :  ENDED!!
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 528ms ID :  70  URL :  https://www.zweiwerk.net Time Taken :  2984 ms :->  Avg.Time : 2984ms belongs to : 70 orders OUTOF 72 orders
+Tue Sep 17 2024 13:04:12 GMT+0530 (India Standard Time) 528ms ID :  70  URL :  https://www.zweiwerk.net Time Taken :  2984 ms :->  TOTAL TIME : 759330ms T.Batch : 17
+Tue Sep 17 2024 13:04:13 GMT+0530 (India Standard Time) 763ms ID :  72  Title :  graphopress  URL :  https://graphopress.nl MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:13 GMT+0530 (India Standard Time) 763ms ID :  72  Title :  graphopress  URL :  https://graphopress.nl MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:13 GMT+0530 (India Standard Time) 771ms ID :  72  Title :  graphopress  URL :  https://graphopress.nl MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:13 GMT+0530 (India Standard Time) 771ms ID :  72  Title :  graphopress  URL :  https://graphopress.nl MSG :  END OF LOG
+Tue Sep 17 2024 13:04:13 GMT+0530 (India Standard Time) 771ms ID :  72  Code :  200  Title :  graphopress  Length :  70579
+Tue Sep 17 2024 13:04:13 GMT+0530 (India Standard Time) 780ms ID :  72  Title :  graphopress  URL :  https://graphopress.nl MSG :  ENDED!!
+Tue Sep 17 2024 13:04:13 GMT+0530 (India Standard Time) 780ms ID :  72  URL :  https://graphopress.nl Time Taken :  4236 ms :->  Avg.Time : 4236ms belongs to : 71 orders OUTOF 72 orders
+Tue Sep 17 2024 13:04:13 GMT+0530 (India Standard Time) 780ms ID :  72  URL :  https://graphopress.nl Time Taken :  4236 ms :->  TOTAL TIME : 763566ms T.Batch : 17
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 549ms ID :  69  Title :    URL :  https://steven-porwol.com MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at https://steven-porwol.com
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 558ms ID :  69  Title :    URL :  https://steven-porwol.com MSG :  END OF LOG
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 558ms ID :  69  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 566ms ID :  69  Title :    URL :  https://steven-porwol.com MSG :  ENDED!!
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 566ms ID :  69  URL :  https://steven-porwol.com Time Taken :  30022 ms :->  Avg.Time : 30022ms belongs to : 72 orders OUTOF 72 orders
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 566ms ID :  69  URL :  https://steven-porwol.com Time Taken :  30022 ms :->  TOTAL TIME : 793588ms T.Batch : 18
+Batch  19  Strated
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 676ms ID :  75  Title :    URL :  http://www.new-tech-engineers.com MSG :  Init Done
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 676ms ID :  75  Title :    URL :  http://www.new-tech-engineers.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 676ms ID :  76  Title :    URL :  http://www.teknikhane.org MSG :  Init Done
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 676ms ID :  76  Title :    URL :  http://www.teknikhane.org MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 676ms ID :  74  Title :    URL :  https://www.baldwinglass.com MSG :  Init Done
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 676ms ID :  74  Title :    URL :  https://www.baldwinglass.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 676ms ID :  73  Title :    URL :  http://www.closcarretou.com MSG :  Init Done
+Tue Sep 17 2024 13:04:39 GMT+0530 (India Standard Time) 676ms ID :  73  Title :    URL :  http://www.closcarretou.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:42 GMT+0530 (India Standard Time) 675ms ID :  75  Title :    URL :  http://www.new-tech-engineers.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:42 GMT+0530 (India Standard Time) 675ms ID :  75  Title :    URL :  http://www.new-tech-engineers.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:42 GMT+0530 (India Standard Time) 677ms ID :  75  Title :    URL :  http://www.new-tech-engineers.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:42 GMT+0530 (India Standard Time) 677ms ID :  75  Title :    URL :  http://www.new-tech-engineers.com MSG :  END OF LOG
+Tue Sep 17 2024 13:04:42 GMT+0530 (India Standard Time) 677ms ID :  75  Code :  200  Title :  Not Fetched  Length :  16910
+Tue Sep 17 2024 13:04:42 GMT+0530 (India Standard Time) 690ms ID :  75  Title :    URL :  http://www.new-tech-engineers.com MSG :  ENDED!!
+Tue Sep 17 2024 13:04:42 GMT+0530 (India Standard Time) 690ms ID :  75  URL :  http://www.new-tech-engineers.com Time Taken :  3014 ms :->  Avg.Time : 3014ms belongs to : 73 orders OUTOF 76 orders
+Tue Sep 17 2024 13:04:42 GMT+0530 (India Standard Time) 690ms ID :  75  URL :  http://www.new-tech-engineers.com Time Taken :  3014 ms :->  TOTAL TIME : 796602ms T.Batch : 18
+Tue Sep 17 2024 13:04:43 GMT+0530 (India Standard Time) 312ms ID :  74  Title :  Window Repair | Baldwin Window & Glass  URL :  https://www.baldwinglass.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:43 GMT+0530 (India Standard Time) 321ms ID :  74  Title :  Window Repair | Baldwin Window & Glass  URL :  https://www.baldwinglass.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:43 GMT+0530 (India Standard Time) 335ms ID :  74  Title :  Window Repair | Baldwin Window & Glass  URL :  https://www.baldwinglass.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:43 GMT+0530 (India Standard Time) 335ms ID :  74  Title :  Window Repair | Baldwin Window & Glass  URL :  https://www.baldwinglass.com MSG :  END OF LOG
+Tue Sep 17 2024 13:04:43 GMT+0530 (India Standard Time) 335ms ID :  74  Code :  200  Title :  Window Repair | Baldwin Window & Glass  Length :  644201
+Tue Sep 17 2024 13:04:43 GMT+0530 (India Standard Time) 352ms ID :  74  Title :  Window Repair | Baldwin Window & Glass  URL :  https://www.baldwinglass.com MSG :  ENDED!!
+Tue Sep 17 2024 13:04:43 GMT+0530 (India Standard Time) 352ms ID :  74  URL :  https://www.baldwinglass.com Time Taken :  3676 ms :->  Avg.Time : 3676ms belongs to : 74 orders OUTOF 76 orders
+Tue Sep 17 2024 13:04:43 GMT+0530 (India Standard Time) 352ms ID :  74  URL :  https://www.baldwinglass.com Time Taken :  3676 ms :->  TOTAL TIME : 800278ms T.Batch : 18
+Tue Sep 17 2024 13:04:44 GMT+0530 (India Standard Time) 225ms ID :  76  Title :  Index of /  URL :  http://www.teknikhane.org MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:44 GMT+0530 (India Standard Time) 225ms ID :  76  Title :  Index of /  URL :  http://www.teknikhane.org MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:44 GMT+0530 (India Standard Time) 226ms ID :  76  Title :  Index of /  URL :  http://www.teknikhane.org MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:44 GMT+0530 (India Standard Time) 226ms ID :  76  Title :  Index of /  URL :  http://www.teknikhane.org MSG :  END OF LOG
+Tue Sep 17 2024 13:04:44 GMT+0530 (India Standard Time) 226ms ID :  76  Code :  200  Title :  Index of /  Length :  1338
+Tue Sep 17 2024 13:04:44 GMT+0530 (India Standard Time) 235ms ID :  76  Title :  Index of /  URL :  http://www.teknikhane.org MSG :  ENDED!!
+Tue Sep 17 2024 13:04:44 GMT+0530 (India Standard Time) 236ms ID :  76  URL :  http://www.teknikhane.org Time Taken :  4560 ms :->  Avg.Time : 4560ms belongs to : 75 orders OUTOF 76 orders
+Tue Sep 17 2024 13:04:44 GMT+0530 (India Standard Time) 236ms ID :  76  URL :  http://www.teknikhane.org Time Taken :  4560 ms :->  TOTAL TIME : 804838ms T.Batch : 18
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 516ms ID :  73  Title :  Accueil - Clos Carretou  URL :  http://www.closcarretou.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 516ms ID :  73  Title :  Accueil - Clos Carretou  URL :  http://www.closcarretou.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 518ms ID :  73  Title :  Accueil - Clos Carretou  URL :  http://www.closcarretou.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 518ms ID :  73  Title :  Accueil - Clos Carretou  URL :  http://www.closcarretou.com MSG :  END OF LOG
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 518ms ID :  73  Code :  200  Title :  Accueil - Clos Carretou  Length :  75169
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 531ms ID :  73  Title :  Accueil - Clos Carretou  URL :  http://www.closcarretou.com MSG :  ENDED!!
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 531ms ID :  73  URL :  http://www.closcarretou.com Time Taken :  6855 ms :->  Avg.Time : 6855ms belongs to : 76 orders OUTOF 76 orders
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 531ms ID :  73  URL :  http://www.closcarretou.com Time Taken :  6855 ms :->  TOTAL TIME : 811693ms T.Batch : 19
+Batch  20  Strated
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 648ms ID :  78  Title :    URL :  https://massiminodevelopment.com MSG :  Init Done
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 648ms ID :  78  Title :    URL :  https://massiminodevelopment.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 648ms ID :  79  Title :    URL :  https://greataptrentals.com MSG :  Init Done
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 648ms ID :  79  Title :    URL :  https://greataptrentals.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 649ms ID :  80  Title :    URL :  https://www.bernsteindevelopment.org MSG :  Init Done
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 649ms ID :  80  Title :    URL :  https://www.bernsteindevelopment.org MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 651ms ID :  77  Title :    URL :  http://www.babastudiovizag.com MSG :  Init Done
+Tue Sep 17 2024 13:04:46 GMT+0530 (India Standard Time) 651ms ID :  77  Title :    URL :  http://www.babastudiovizag.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 162ms ID :  79  Title :  Pet-Friendly | Housing | Units | Great Apartment Rentals  URL :  https://greataptrentals.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 162ms ID :  79  Title :  Pet-Friendly | Housing | Units | Great Apartment Rentals  URL :  https://greataptrentals.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 164ms ID :  79  Title :  Pet-Friendly | Housing | Units | Great Apartment Rentals  URL :  https://greataptrentals.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 164ms ID :  79  Title :  Pet-Friendly | Housing | Units | Great Apartment Rentals  URL :  https://greataptrentals.com MSG :  END OF LOG
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 164ms ID :  79  Code :  200  Title :  Pet-Friendly | Housing | Units | Great Apartment Rentals  Length :  63733
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 173ms ID :  79  Title :  Pet-Friendly | Housing | Units | Great Apartment Rentals  URL :  https://greataptrentals.com MSG :  ENDED!!
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 173ms ID :  79  URL :  https://greataptrentals.com Time Taken :  2525 ms :->  Avg.Time : 2525ms belongs to : 77 orders OUTOF 80 orders
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 173ms ID :  79  URL :  https://greataptrentals.com Time Taken :  2525 ms :->  TOTAL TIME : 814218ms T.Batch : 19
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 605ms ID :  80  Title :  Home | Bernstiendevelopment  URL :  https://www.bernsteindevelopment.org MSG :  GOTO Finished
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 605ms ID :  80  Title :  Home | Bernstiendevelopment  URL :  https://www.bernsteindevelopment.org MSG :  Extraction Strated
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 621ms ID :  80  Title :  Home | Bernstiendevelopment  URL :  https://www.bernsteindevelopment.org MSG :  Extraction Done!!
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 621ms ID :  80  Title :  Home | Bernstiendevelopment  URL :  https://www.bernsteindevelopment.org MSG :  END OF LOG
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 622ms ID :  80  Code :  200  Title :  Home | Bernstiendevelopment  Length :  745170
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 636ms ID :  80  Title :  Home | Bernstiendevelopment  URL :  https://www.bernsteindevelopment.org MSG :  ENDED!!
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 636ms ID :  80  URL :  https://www.bernsteindevelopment.org Time Taken :  2987 ms :->  Avg.Time : 2987ms belongs to : 78 orders OUTOF 80 orders
+Tue Sep 17 2024 13:04:49 GMT+0530 (India Standard Time) 636ms ID :  80  URL :  https://www.bernsteindevelopment.org Time Taken :  2987 ms :->  TOTAL TIME : 817205ms T.Batch : 19
+Tue Sep 17 2024 13:05:00 GMT+0530 (India Standard Time) 64ms ID :  78  Title :  Massimino Development – BUILDING SUCCESSFUL DEVELOPMENT TEAMS  URL :  https://massiminodevelopment.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:05:00 GMT+0530 (India Standard Time) 72ms ID :  78  Title :  Massimino Development – BUILDING SUCCESSFUL DEVELOPMENT TEAMS  URL :  https://massiminodevelopment.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:05:00 GMT+0530 (India Standard Time) 76ms ID :  78  Title :  Massimino Development – BUILDING SUCCESSFUL DEVELOPMENT TEAMS  URL :  https://massiminodevelopment.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:05:00 GMT+0530 (India Standard Time) 76ms ID :  78  Title :  Massimino Development – BUILDING SUCCESSFUL DEVELOPMENT TEAMS  URL :  https://massiminodevelopment.com MSG :  END OF LOG
+Tue Sep 17 2024 13:05:00 GMT+0530 (India Standard Time) 76ms ID :  78  Code :  200  Title :  Massimino Development – BUILDING SUCCESSFUL DEVELOPMENT TEAMS  Length :  109141
+Tue Sep 17 2024 13:05:00 GMT+0530 (India Standard Time) 88ms ID :  78  Title :  Massimino Development – BUILDING SUCCESSFUL DEVELOPMENT TEAMS  URL :  https://massiminodevelopment.com MSG :  ENDED!!
+Tue Sep 17 2024 13:05:00 GMT+0530 (India Standard Time) 88ms ID :  78  URL :  https://massiminodevelopment.com Time Taken :  13440 ms :->  Avg.Time : 13440ms belongs to : 79 orders OUTOF 80 orders
+Tue Sep 17 2024 13:05:00 GMT+0530 (India Standard Time) 88ms ID :  78  URL :  https://massiminodevelopment.com Time Taken :  13440 ms :->  TOTAL TIME : 830645ms T.Batch : 19
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 672ms ID :  77  Title :    URL :  http://www.babastudiovizag.com MSG :  ERROR : Scrap : Navigation timeout of 60000 ms exceeded
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 681ms ID :  77  Title :    URL :  http://www.babastudiovizag.com MSG :  END OF LOG
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 681ms ID :  77  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 689ms ID :  77  Title :    URL :  http://www.babastudiovizag.com MSG :  ENDED!!
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 689ms ID :  77  URL :  http://www.babastudiovizag.com Time Taken :  60038 ms :->  Avg.Time : 60038ms belongs to : 80 orders OUTOF 80 orders
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 689ms ID :  77  URL :  http://www.babastudiovizag.com Time Taken :  60038 ms :->  TOTAL TIME : 890683ms T.Batch : 20
+Batch  21  Strated
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 799ms ID :  81  Title :    URL :  https://tax.group MSG :  Init Done
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 799ms ID :  81  Title :    URL :  https://tax.group MSG :  GOTO Strated
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 800ms ID :  82  Title :    URL :  http://www.fotz.co.za MSG :  Init Done
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 800ms ID :  82  Title :    URL :  http://www.fotz.co.za MSG :  GOTO Strated
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 800ms ID :  83  Title :    URL :  https://rentinokaloosa.com MSG :  Init Done
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 800ms ID :  83  Title :    URL :  https://rentinokaloosa.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 800ms ID :  84  Title :    URL :  https://www.repairtrax.com MSG :  Init Done
+Tue Sep 17 2024 13:05:46 GMT+0530 (India Standard Time) 800ms ID :  84  Title :    URL :  https://www.repairtrax.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:05:51 GMT+0530 (India Standard Time) 572ms ID :  83  Title :  Rent In Okaloosa  URL :  https://rentinokaloosa.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:05:51 GMT+0530 (India Standard Time) 572ms ID :  83  Title :  Rent In Okaloosa  URL :  https://rentinokaloosa.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:05:51 GMT+0530 (India Standard Time) 575ms ID :  83  Title :  Rent In Okaloosa  URL :  https://rentinokaloosa.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:05:51 GMT+0530 (India Standard Time) 575ms ID :  83  Title :  Rent In Okaloosa  URL :  https://rentinokaloosa.com MSG :  END OF LOG
+Tue Sep 17 2024 13:05:51 GMT+0530 (India Standard Time) 575ms ID :  83  Code :  200  Title :  Rent In Okaloosa  Length :  132001
+Tue Sep 17 2024 13:05:51 GMT+0530 (India Standard Time) 585ms ID :  83  Title :  Rent In Okaloosa  URL :  https://rentinokaloosa.com MSG :  ENDED!!
+Tue Sep 17 2024 13:05:51 GMT+0530 (India Standard Time) 585ms ID :  83  URL :  https://rentinokaloosa.com Time Taken :  4785 ms :->  Avg.Time : 4785ms belongs to : 81 orders OUTOF 84 orders
+Tue Sep 17 2024 13:05:51 GMT+0530 (India Standard Time) 585ms ID :  83  URL :  https://rentinokaloosa.com Time Taken :  4785 ms :->  TOTAL TIME : 895468ms T.Batch : 20
+Tue Sep 17 2024 13:05:54 GMT+0530 (India Standard Time) 545ms ID :  84  Title :  Repair Shop Software  URL :  https://www.repairtrax.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:05:54 GMT+0530 (India Standard Time) 545ms ID :  84  Title :  Repair Shop Software  URL :  https://www.repairtrax.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:05:54 GMT+0530 (India Standard Time) 546ms ID :  84  Title :  Repair Shop Software  URL :  https://www.repairtrax.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:05:54 GMT+0530 (India Standard Time) 546ms ID :  84  Title :  Repair Shop Software  URL :  https://www.repairtrax.com MSG :  END OF LOG
+Tue Sep 17 2024 13:05:54 GMT+0530 (India Standard Time) 546ms ID :  84  Code :  200  Title :  Repair Shop Software  Length :  26516
+Tue Sep 17 2024 13:05:54 GMT+0530 (India Standard Time) 554ms ID :  84  Title :  Repair Shop Software  URL :  https://www.repairtrax.com MSG :  ENDED!!
+Tue Sep 17 2024 13:05:54 GMT+0530 (India Standard Time) 554ms ID :  84  URL :  https://www.repairtrax.com Time Taken :  7754 ms :->  Avg.Time : 7754ms belongs to : 82 orders OUTOF 84 orders
+Tue Sep 17 2024 13:05:54 GMT+0530 (India Standard Time) 555ms ID :  84  URL :  https://www.repairtrax.com Time Taken :  7754 ms :->  TOTAL TIME : 903222ms T.Batch : 20
+Tue Sep 17 2024 13:05:58 GMT+0530 (India Standard Time) 701ms ID :  81  Title :  The domain name tax.group is for sale  URL :  https://tax.group MSG :  GOTO Finished
+Tue Sep 17 2024 13:05:58 GMT+0530 (India Standard Time) 710ms ID :  81  Title :  The domain name tax.group is for sale  URL :  https://tax.group MSG :  Extraction Strated
+Tue Sep 17 2024 13:05:58 GMT+0530 (India Standard Time) 712ms ID :  81  Title :  The domain name tax.group is for sale  URL :  https://tax.group MSG :  Extraction Done!!
+Tue Sep 17 2024 13:05:58 GMT+0530 (India Standard Time) 713ms ID :  81  Title :  The domain name tax.group is for sale  URL :  https://tax.group MSG :  END OF LOG
+Tue Sep 17 2024 13:05:58 GMT+0530 (India Standard Time) 713ms ID :  81  Code :  200  Title :  The domain name tax.group is for sale  Length :  48031
+Tue Sep 17 2024 13:05:58 GMT+0530 (India Standard Time) 723ms ID :  81  Title :  The domain name tax.group is for sale  URL :  https://tax.group MSG :  ENDED!!
+Tue Sep 17 2024 13:05:58 GMT+0530 (India Standard Time) 723ms ID :  81  URL :  https://tax.group Time Taken :  11924 ms :->  Avg.Time : 11924ms belongs to : 83 orders OUTOF 84 orders
+Tue Sep 17 2024 13:05:58 GMT+0530 (India Standard Time) 723ms ID :  81  URL :  https://tax.group Time Taken :  11924 ms :->  TOTAL TIME : 915146ms T.Batch : 20
+Tue Sep 17 2024 13:05:59 GMT+0530 (India Standard Time) 994ms ID :  82  Title :  Home  URL :  http://www.fotz.co.za MSG :  GOTO Finished
+Tue Sep 17 2024 13:05:59 GMT+0530 (India Standard Time) 994ms ID :  82  Title :  Home  URL :  http://www.fotz.co.za MSG :  Extraction Strated
+Tue Sep 17 2024 13:05:59 GMT+0530 (India Standard Time) 995ms ID :  82  Title :  Home  URL :  http://www.fotz.co.za MSG :  Extraction Done!!
+Tue Sep 17 2024 13:05:59 GMT+0530 (India Standard Time) 995ms ID :  82  Title :  Home  URL :  http://www.fotz.co.za MSG :  END OF LOG
+Tue Sep 17 2024 13:05:59 GMT+0530 (India Standard Time) 995ms ID :  82  Code :  200  Title :  Home  Length :  32446
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 6ms ID :  82  Title :  Home  URL :  http://www.fotz.co.za MSG :  ENDED!!
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 6ms ID :  82  URL :  http://www.fotz.co.za Time Taken :  13206 ms :->  Avg.Time : 13206ms belongs to : 84 orders OUTOF 84 orders
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 6ms ID :  82  URL :  http://www.fotz.co.za Time Taken :  13206 ms :->  TOTAL TIME : 928352ms T.Batch : 21
+Batch  22  Strated
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 118ms ID :  85  Title :    URL :  https://www.great-wall.co.uk MSG :  Init Done
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 118ms ID :  85  Title :    URL :  https://www.great-wall.co.uk MSG :  GOTO Strated
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 119ms ID :  86  Title :    URL :  http://www.grandmerdeka.com MSG :  Init Done
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 119ms ID :  86  Title :    URL :  http://www.grandmerdeka.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 119ms ID :  87  Title :    URL :  https://www.restaurant-xie-almere.nl MSG :  Init Done
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 119ms ID :  87  Title :    URL :  https://www.restaurant-xie-almere.nl MSG :  GOTO Strated
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 120ms ID :  88  Title :    URL :  http://kellyskitchenpub.ca MSG :  Init Done
+Tue Sep 17 2024 13:06:00 GMT+0530 (India Standard Time) 120ms ID :  88  Title :    URL :  http://kellyskitchenpub.ca MSG :  GOTO Strated
+Tue Sep 17 2024 13:06:03 GMT+0530 (India Standard Time) 134ms ID :  88  Title :    URL :  http://kellyskitchenpub.ca MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at http://kellyskitchenpub.ca
+Tue Sep 17 2024 13:06:03 GMT+0530 (India Standard Time) 143ms ID :  88  Title :    URL :  http://kellyskitchenpub.ca MSG :  END OF LOG
+Tue Sep 17 2024 13:06:03 GMT+0530 (India Standard Time) 143ms ID :  88  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:06:03 GMT+0530 (India Standard Time) 158ms ID :  88  Title :    URL :  http://kellyskitchenpub.ca MSG :  ENDED!!
+Tue Sep 17 2024 13:06:03 GMT+0530 (India Standard Time) 158ms ID :  88  URL :  http://kellyskitchenpub.ca Time Taken :  3038 ms :->  Avg.Time : 3038ms belongs to : 85 orders OUTOF 88 orders
+Tue Sep 17 2024 13:06:03 GMT+0530 (India Standard Time) 158ms ID :  88  URL :  http://kellyskitchenpub.ca Time Taken :  3038 ms :->  TOTAL TIME : 931390ms T.Batch : 21
+Tue Sep 17 2024 13:06:04 GMT+0530 (India Standard Time) 178ms ID :  87  Title :  Restaurant Xie - Eten bestellen in Almere  URL :  https://www.restaurant-xie-almere.nl MSG :  GOTO Finished
+Tue Sep 17 2024 13:06:04 GMT+0530 (India Standard Time) 179ms ID :  87  Title :  Restaurant Xie - Eten bestellen in Almere  URL :  https://www.restaurant-xie-almere.nl MSG :  Extraction Strated
+Tue Sep 17 2024 13:06:04 GMT+0530 (India Standard Time) 186ms ID :  87  Title :  Restaurant Xie - Eten bestellen in Almere  URL :  https://www.restaurant-xie-almere.nl MSG :  Extraction Done!!
+Tue Sep 17 2024 13:06:04 GMT+0530 (India Standard Time) 186ms ID :  87  Title :  Restaurant Xie - Eten bestellen in Almere  URL :  https://www.restaurant-xie-almere.nl MSG :  END OF LOG
+Tue Sep 17 2024 13:06:04 GMT+0530 (India Standard Time) 186ms ID :  87  Code :  200  Title :  Restaurant Xie - Eten bestellen in Almere  Length :  309459
+Tue Sep 17 2024 13:06:04 GMT+0530 (India Standard Time) 195ms ID :  87  Title :  Restaurant Xie - Eten bestellen in Almere  URL :  https://www.restaurant-xie-almere.nl MSG :  ENDED!!
+Tue Sep 17 2024 13:06:04 GMT+0530 (India Standard Time) 196ms ID :  87  URL :  https://www.restaurant-xie-almere.nl Time Taken :  4077 ms :->  Avg.Time : 4077ms belongs to : 86 orders OUTOF 88 orders
+Tue Sep 17 2024 13:06:04 GMT+0530 (India Standard Time) 196ms ID :  87  URL :  https://www.restaurant-xie-almere.nl Time Taken :  4077 ms :->  TOTAL TIME : 935467ms T.Batch : 21
+Tue Sep 17 2024 13:06:06 GMT+0530 (India Standard Time) 577ms ID :  85  Title :  Great Wall Chinese, Wirral  URL :  https://www.great-wall.co.uk MSG :  GOTO Finished
+Tue Sep 17 2024 13:06:06 GMT+0530 (India Standard Time) 578ms ID :  85  Title :  Great Wall Chinese, Wirral  URL :  https://www.great-wall.co.uk MSG :  Extraction Strated
+Tue Sep 17 2024 13:06:06 GMT+0530 (India Standard Time) 581ms ID :  85  Title :  Great Wall Chinese, Wirral  URL :  https://www.great-wall.co.uk MSG :  Extraction Done!!
+Tue Sep 17 2024 13:06:06 GMT+0530 (India Standard Time) 581ms ID :  85  Title :  Great Wall Chinese, Wirral  URL :  https://www.great-wall.co.uk MSG :  END OF LOG
+Tue Sep 17 2024 13:06:06 GMT+0530 (India Standard Time) 581ms ID :  85  Code :  200  Title :  Great Wall Chinese, Wirral  Length :  137249
+Tue Sep 17 2024 13:06:06 GMT+0530 (India Standard Time) 600ms ID :  85  Title :  Great Wall Chinese, Wirral  URL :  https://www.great-wall.co.uk MSG :  ENDED!!
+Tue Sep 17 2024 13:06:06 GMT+0530 (India Standard Time) 600ms ID :  85  URL :  https://www.great-wall.co.uk Time Taken :  6482 ms :->  Avg.Time : 6482ms belongs to : 87 orders OUTOF 88 orders
+Tue Sep 17 2024 13:06:06 GMT+0530 (India Standard Time) 600ms ID :  85  URL :  https://www.great-wall.co.uk Time Taken :  6482 ms :->  TOTAL TIME : 941949ms T.Batch : 21
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 130ms ID :  86  Title :    URL :  http://www.grandmerdeka.com MSG :  ERROR : Scrap : Navigation timeout of 60000 ms exceeded
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 139ms ID :  86  Title :    URL :  http://www.grandmerdeka.com MSG :  END OF LOG
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 139ms ID :  86  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 147ms ID :  86  Title :    URL :  http://www.grandmerdeka.com MSG :  ENDED!!
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 148ms ID :  86  URL :  http://www.grandmerdeka.com Time Taken :  60029 ms :->  Avg.Time : 60029ms belongs to : 88 orders OUTOF 88 orders
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 148ms ID :  86  URL :  http://www.grandmerdeka.com Time Taken :  60029 ms :->  TOTAL TIME : 1001978ms T.Batch : 22
+Batch  23  Strated
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 258ms ID :  90  Title :    URL :  http://www.rentyourflowers.com MSG :  Init Done
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 258ms ID :  90  Title :    URL :  http://www.rentyourflowers.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 258ms ID :  91  Title :    URL :  https://imoveisweb.com.br MSG :  Init Done
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 258ms ID :  91  Title :    URL :  https://imoveisweb.com.br MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 258ms ID :  89  Title :    URL :  http://granttransport.net MSG :  Init Done
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 258ms ID :  89  Title :    URL :  http://granttransport.net MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 258ms ID :  92  Title :    URL :  http://www.sparenity.co.uk MSG :  Init Done
+Tue Sep 17 2024 13:07:00 GMT+0530 (India Standard Time) 258ms ID :  92  Title :    URL :  http://www.sparenity.co.uk MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:03 GMT+0530 (India Standard Time) 228ms ID :  90  Title :  www.rentyourflowers.com / rent / your/ flowers / wedding / party / parties / event / events / weddings / arch / arches / bouquet / silk / fresh / fort myers / florida / southwest / florida / consultant / coordinator / rental / chuppa / huppa / arches/ affordable/  URL :  http://www.rentyourflowers.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:03 GMT+0530 (India Standard Time) 229ms ID :  90  Title :  www.rentyourflowers.com / rent / your/ flowers / wedding / party / parties / event / events / weddings / arch / arches / bouquet / silk / fresh / fort myers / florida / southwest / florida / consultant / coordinator / rental / chuppa / huppa / arches/ affordable/  URL :  http://www.rentyourflowers.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:03 GMT+0530 (India Standard Time) 230ms ID :  90  Title :  www.rentyourflowers.com / rent / your/ flowers / wedding / party / parties / event / events / weddings / arch / arches / bouquet / silk / fresh / fort myers / florida / southwest / florida / consultant / coordinator / rental / chuppa / huppa / arches/ affordable/  URL :  http://www.rentyourflowers.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:03 GMT+0530 (India Standard Time) 230ms ID :  90  Title :  www.rentyourflowers.com / rent / your/ flowers / wedding / party / parties / event / events / weddings / arch / arches / bouquet / silk / fresh / fort myers / florida / southwest / florida / consultant / coordinator / rental / chuppa / huppa / arches/ affordable/  URL :  http://www.rentyourflowers.com MSG :  END OF LOG
+Tue Sep 17 2024 13:07:03 GMT+0530 (India Standard Time) 230ms ID :  90  Code :  200  Title :  www.rentyourflowers.com / rent / your/ flowers / wedding / party / parties / event / events / weddings / arch / arches / bouquet / silk / fresh / fort myers / florida / southwest / florida / consultant / coordinator / rental / chuppa / huppa / arches/ affordable/  Length :  15682
+Tue Sep 17 2024 13:07:03 GMT+0530 (India Standard Time) 238ms ID :  90  Title :  www.rentyourflowers.com / rent / your/ flowers / wedding / party / parties / event / events / weddings / arch / arches / bouquet / silk / fresh / fort myers / florida / southwest / florida / consultant / coordinator / rental / chuppa / huppa / arches/ affordable/  URL :  http://www.rentyourflowers.com MSG :  ENDED!!
+Tue Sep 17 2024 13:07:03 GMT+0530 (India Standard Time) 238ms ID :  90  URL :  http://www.rentyourflowers.com Time Taken :  2980 ms :->  Avg.Time : 2980ms belongs to : 89 orders OUTOF 92 orders
+Tue Sep 17 2024 13:07:03 GMT+0530 (India Standard Time) 238ms ID :  90  URL :  http://www.rentyourflowers.com Time Taken :  2980 ms :->  TOTAL TIME : 1004958ms T.Batch : 22
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 405ms ID :  91  Title :  Imobiliária Aquários - Chácaras, sítios, casas, terrenos e lotes em Extrema MG e sul de Minas  URL :  https://imoveisweb.com.br MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 414ms ID :  91  Title :  Imobiliária Aquários - Chácaras, sítios, casas, terrenos e lotes em Extrema MG e sul de Minas  URL :  https://imoveisweb.com.br MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 415ms ID :  91  Title :  Imobiliária Aquários - Chácaras, sítios, casas, terrenos e lotes em Extrema MG e sul de Minas  URL :  https://imoveisweb.com.br MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 416ms ID :  91  Title :  Imobiliária Aquários - Chácaras, sítios, casas, terrenos e lotes em Extrema MG e sul de Minas  URL :  https://imoveisweb.com.br MSG :  END OF LOG
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 416ms ID :  91  Code :  200  Title :  Imobiliária Aquários - Chácaras, sítios, casas, terrenos e lotes em Extrema MG e sul de Minas  Length :  19493
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 424ms ID :  91  Title :  Imobiliária Aquários - Chácaras, sítios, casas, terrenos e lotes em Extrema MG e sul de Minas  URL :  https://imoveisweb.com.br MSG :  ENDED!!
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 424ms ID :  91  URL :  https://imoveisweb.com.br Time Taken :  5166 ms :->  Avg.Time : 5166ms belongs to : 90 orders OUTOF 92 orders
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 424ms ID :  91  URL :  https://imoveisweb.com.br Time Taken :  5166 ms :->  TOTAL TIME : 1010124ms T.Batch : 22
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 459ms ID :  92  Title :  Dedicated Spa Laundry Detergent System | Sparenity  URL :  http://www.sparenity.co.uk MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 459ms ID :  92  Title :  Dedicated Spa Laundry Detergent System | Sparenity  URL :  http://www.sparenity.co.uk MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 460ms ID :  92  Title :  Dedicated Spa Laundry Detergent System | Sparenity  URL :  http://www.sparenity.co.uk MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 460ms ID :  92  Title :  Dedicated Spa Laundry Detergent System | Sparenity  URL :  http://www.sparenity.co.uk MSG :  END OF LOG
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 460ms ID :  92  Code :  200  Title :  Dedicated Spa Laundry Detergent System | Sparenity  Length :  29226
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 468ms ID :  92  Title :  Dedicated Spa Laundry Detergent System | Sparenity  URL :  http://www.sparenity.co.uk MSG :  ENDED!!
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 469ms ID :  92  URL :  http://www.sparenity.co.uk Time Taken :  5211 ms :->  Avg.Time : 5211ms belongs to : 91 orders OUTOF 92 orders
+Tue Sep 17 2024 13:07:05 GMT+0530 (India Standard Time) 469ms ID :  92  URL :  http://www.sparenity.co.uk Time Taken :  5211 ms :->  TOTAL TIME : 1015335ms T.Batch : 22
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 556ms ID :  89  Title :  Grant Transport Inc | We Deliver Fast and on Time  URL :  http://granttransport.net MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 556ms ID :  89  Title :  Grant Transport Inc | We Deliver Fast and on Time  URL :  http://granttransport.net MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 557ms ID :  89  Title :  Grant Transport Inc | We Deliver Fast and on Time  URL :  http://granttransport.net MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 557ms ID :  89  Title :  Grant Transport Inc | We Deliver Fast and on Time  URL :  http://granttransport.net MSG :  END OF LOG
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 557ms ID :  89  Code :  200  Title :  Grant Transport Inc | We Deliver Fast and on Time  Length :  12635
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 565ms ID :  89  Title :  Grant Transport Inc | We Deliver Fast and on Time  URL :  http://granttransport.net MSG :  ENDED!!
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 565ms ID :  89  URL :  http://granttransport.net Time Taken :  7307 ms :->  Avg.Time : 7307ms belongs to : 92 orders OUTOF 92 orders
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 565ms ID :  89  URL :  http://granttransport.net Time Taken :  7307 ms :->  TOTAL TIME : 1022642ms T.Batch : 23
+Batch  24  Strated
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 671ms ID :  93  Title :    URL :  http://www.ibuypropertyonline.com MSG :  Init Done
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 671ms ID :  93  Title :    URL :  http://www.ibuypropertyonline.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 671ms ID :  94  Title :    URL :  https://www.ferienwohnung-zur-trolle.de MSG :  Init Done
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 671ms ID :  94  Title :    URL :  https://www.ferienwohnung-zur-trolle.de MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 672ms ID :  95  Title :    URL :  https://plantsfordesign.co.uk MSG :  Init Done
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 672ms ID :  95  Title :    URL :  https://plantsfordesign.co.uk MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 672ms ID :  96  Title :    URL :  https://www.dsmodelmakers.com MSG :  Init Done
+Tue Sep 17 2024 13:07:07 GMT+0530 (India Standard Time) 672ms ID :  96  Title :    URL :  https://www.dsmodelmakers.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:10 GMT+0530 (India Standard Time) 683ms ID :  93  Title :    URL :  http://www.ibuypropertyonline.com MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at http://www.ibuypropertyonline.com
+Tue Sep 17 2024 13:07:10 GMT+0530 (India Standard Time) 683ms ID :  93  Title :    URL :  http://www.ibuypropertyonline.com MSG :  END OF LOG
+Tue Sep 17 2024 13:07:10 GMT+0530 (India Standard Time) 683ms ID :  93  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:07:10 GMT+0530 (India Standard Time) 691ms ID :  93  Title :    URL :  http://www.ibuypropertyonline.com MSG :  ENDED!!
+Tue Sep 17 2024 13:07:10 GMT+0530 (India Standard Time) 692ms ID :  93  URL :  http://www.ibuypropertyonline.com Time Taken :  3021 ms :->  Avg.Time : 3021ms belongs to : 93 orders OUTOF 96 orders
+Tue Sep 17 2024 13:07:10 GMT+0530 (India Standard Time) 692ms ID :  93  URL :  http://www.ibuypropertyonline.com Time Taken :  3021 ms :->  TOTAL TIME : 1025663ms T.Batch : 23
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 187ms ID :  96  Title :  Professional Miniature Model Makers – Professional Miniature Model Makers  URL :  https://www.dsmodelmakers.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 196ms ID :  96  Title :  Professional Miniature Model Makers – Professional Miniature Model Makers  URL :  https://www.dsmodelmakers.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 200ms ID :  96  Title :  Professional Miniature Model Makers – Professional Miniature Model Makers  URL :  https://www.dsmodelmakers.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 200ms ID :  96  Title :  Professional Miniature Model Makers – Professional Miniature Model Makers  URL :  https://www.dsmodelmakers.com MSG :  END OF LOG
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 200ms ID :  96  Code :  200  Title :  Professional Miniature Model Makers – Professional Miniature Model Makers  Length :  171767
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 217ms ID :  96  Title :  Professional Miniature Model Makers – Professional Miniature Model Makers  URL :  https://www.dsmodelmakers.com MSG :  ENDED!!
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 217ms ID :  96  URL :  https://www.dsmodelmakers.com Time Taken :  3545 ms :->  Avg.Time : 3545ms belongs to : 94 orders OUTOF 96 orders
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 218ms ID :  96  URL :  https://www.dsmodelmakers.com Time Taken :  3545 ms :->  TOTAL TIME : 1029208ms T.Batch : 23
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 444ms ID :  94  Title :  Willkommen - Ferienwohnung Zur Trolle in Erfurt-Büßleben  URL :  https://www.ferienwohnung-zur-trolle.de MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 444ms ID :  94  Title :  Willkommen - Ferienwohnung Zur Trolle in Erfurt-Büßleben  URL :  https://www.ferienwohnung-zur-trolle.de MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 446ms ID :  94  Title :  Willkommen - Ferienwohnung Zur Trolle in Erfurt-Büßleben  URL :  https://www.ferienwohnung-zur-trolle.de MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 446ms ID :  94  Title :  Willkommen - Ferienwohnung Zur Trolle in Erfurt-Büßleben  URL :  https://www.ferienwohnung-zur-trolle.de MSG :  END OF LOG
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 446ms ID :  94  Code :  200  Title :  Willkommen - Ferienwohnung Zur Trolle in Erfurt-Büßleben  Length :  78027
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 457ms ID :  94  Title :  Willkommen - Ferienwohnung Zur Trolle in Erfurt-Büßleben  URL :  https://www.ferienwohnung-zur-trolle.de MSG :  ENDED!!
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 457ms ID :  94  URL :  https://www.ferienwohnung-zur-trolle.de Time Taken :  3786 ms :->  Avg.Time : 3786ms belongs to : 95 orders OUTOF 96 orders
+Tue Sep 17 2024 13:07:11 GMT+0530 (India Standard Time) 457ms ID :  94  URL :  https://www.ferienwohnung-zur-trolle.de Time Taken :  3786 ms :->  TOTAL TIME : 1032994ms T.Batch : 23
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 680ms ID :  95  Title :    URL :  https://plantsfordesign.co.uk MSG :  ERROR : Scrap : net::ERR_TIMED_OUT at https://plantsfordesign.co.uk
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 686ms ID :  95  Title :    URL :  https://plantsfordesign.co.uk MSG :  END OF LOG
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 687ms ID :  95  Code :  0  Title :  Not Fetched  Length :  0
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 696ms ID :  95  Title :    URL :  https://plantsfordesign.co.uk MSG :  ENDED!!
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 696ms ID :  95  URL :  https://plantsfordesign.co.uk Time Taken :  30024 ms :->  Avg.Time : 30024ms belongs to : 96 orders OUTOF 96 orders
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 696ms ID :  95  URL :  https://plantsfordesign.co.uk Time Taken :  30024 ms :->  TOTAL TIME : 1063018ms T.Batch : 24
+Batch  25  Strated
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 800ms ID :  97  Title :    URL :  https://www.grandstrandchurch.org MSG :  Init Done
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 800ms ID :  97  Title :    URL :  https://www.grandstrandchurch.org MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 800ms ID :  100  Title :    URL :  https://teamkimball.com MSG :  Init Done
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 800ms ID :  100  Title :    URL :  https://teamkimball.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 800ms ID :  99  Title :    URL :  https://sandtofte.dk MSG :  Init Done
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 800ms ID :  99  Title :    URL :  https://sandtofte.dk MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 800ms ID :  98  Title :    URL :  https://saferprisonsnewyork.com MSG :  Init Done
+Tue Sep 17 2024 13:07:37 GMT+0530 (India Standard Time) 800ms ID :  98  Title :    URL :  https://saferprisonsnewyork.com MSG :  GOTO Strated
+Tue Sep 17 2024 13:07:39 GMT+0530 (India Standard Time) 642ms ID :  100  Title :  The domain name teamkimball.com is for sale  URL :  https://teamkimball.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:39 GMT+0530 (India Standard Time) 642ms ID :  100  Title :  The domain name teamkimball.com is for sale  URL :  https://teamkimball.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:39 GMT+0530 (India Standard Time) 644ms ID :  100  Title :  The domain name teamkimball.com is for sale  URL :  https://teamkimball.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:39 GMT+0530 (India Standard Time) 644ms ID :  100  Title :  The domain name teamkimball.com is for sale  URL :  https://teamkimball.com MSG :  END OF LOG
+Tue Sep 17 2024 13:07:39 GMT+0530 (India Standard Time) 644ms ID :  100  Code :  200  Title :  The domain name teamkimball.com is for sale  Length :  48661
+Tue Sep 17 2024 13:07:39 GMT+0530 (India Standard Time) 656ms ID :  100  Title :  The domain name teamkimball.com is for sale  URL :  https://teamkimball.com MSG :  ENDED!!
+Tue Sep 17 2024 13:07:39 GMT+0530 (India Standard Time) 656ms ID :  100  URL :  https://teamkimball.com Time Taken :  1856 ms :->  Avg.Time : 1856ms belongs to : 97 orders OUTOF 100 orders
+Tue Sep 17 2024 13:07:39 GMT+0530 (India Standard Time) 657ms ID :  100  URL :  https://teamkimball.com Time Taken :  1856 ms :->  TOTAL TIME : 1064874ms T.Batch : 24
+Tue Sep 17 2024 13:07:40 GMT+0530 (India Standard Time) 947ms ID :  99  Title :  Forside - Kennel Sandtofte  URL :  https://sandtofte.dk MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:40 GMT+0530 (India Standard Time) 947ms ID :  99  Title :  Forside - Kennel Sandtofte  URL :  https://sandtofte.dk MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:40 GMT+0530 (India Standard Time) 948ms ID :  99  Title :  Forside - Kennel Sandtofte  URL :  https://sandtofte.dk MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:40 GMT+0530 (India Standard Time) 948ms ID :  99  Title :  Forside - Kennel Sandtofte  URL :  https://sandtofte.dk MSG :  END OF LOG
+Tue Sep 17 2024 13:07:40 GMT+0530 (India Standard Time) 948ms ID :  99  Code :  200  Title :  Forside - Kennel Sandtofte  Length :  31582
+Tue Sep 17 2024 13:07:40 GMT+0530 (India Standard Time) 961ms ID :  99  Title :  Forside - Kennel Sandtofte  URL :  https://sandtofte.dk MSG :  ENDED!!
+Tue Sep 17 2024 13:07:40 GMT+0530 (India Standard Time) 961ms ID :  99  URL :  https://sandtofte.dk Time Taken :  3161 ms :->  Avg.Time : 3161ms belongs to : 98 orders OUTOF 100 orders
+Tue Sep 17 2024 13:07:40 GMT+0530 (India Standard Time) 961ms ID :  99  URL :  https://sandtofte.dk Time Taken :  3161 ms :->  TOTAL TIME : 1068035ms T.Batch : 24
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 555ms ID :  98  Title :  Safer Prisons New York  URL :  https://saferprisonsnewyork.com MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 555ms ID :  98  Title :  Safer Prisons New York  URL :  https://saferprisonsnewyork.com MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 558ms ID :  98  Title :  Safer Prisons New York  URL :  https://saferprisonsnewyork.com MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 558ms ID :  98  Title :  Safer Prisons New York  URL :  https://saferprisonsnewyork.com MSG :  END OF LOG
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 558ms ID :  98  Code :  200  Title :  Safer Prisons New York  Length :  80296
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 575ms ID :  98  Title :  Safer Prisons New York  URL :  https://saferprisonsnewyork.com MSG :  ENDED!!
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 575ms ID :  98  URL :  https://saferprisonsnewyork.com Time Taken :  3775 ms :->  Avg.Time : 3775ms belongs to : 99 orders OUTOF 100 orders
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 575ms ID :  98  URL :  https://saferprisonsnewyork.com Time Taken :  3775 ms :->  TOTAL TIME : 1071810ms T.Batch : 24
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 661ms ID :  97  Title :  Grand Strand Church  URL :  https://www.grandstrandchurch.org MSG :  GOTO Finished
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 661ms ID :  97  Title :  Grand Strand Church  URL :  https://www.grandstrandchurch.org MSG :  Extraction Strated
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 673ms ID :  97  Title :  Grand Strand Church  URL :  https://www.grandstrandchurch.org MSG :  Extraction Done!!
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 673ms ID :  97  Title :  Grand Strand Church  URL :  https://www.grandstrandchurch.org MSG :  END OF LOG
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 673ms ID :  97  Code :  200  Title :  Grand Strand Church  Length :  567105
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 692ms ID :  97  Title :  Grand Strand Church  URL :  https://www.grandstrandchurch.org MSG :  ENDED!!
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 693ms ID :  97  URL :  https://www.grandstrandchurch.org Time Taken :  3893 ms :->  Avg.Time : 3893ms belongs to : 100 orders OUTOF 100 orders
+Tue Sep 17 2024 13:07:41 GMT+0530 (India Standard Time) 693ms ID :  97  URL :  https://www.grandstrandchurch.org Time Taken :  3893 ms :->  TOTAL TIME : 1075703ms T.Batch : 25
+File Occurance :  1  Completed
+Writing into CSV
+Before Writing CSV Time Of Execution :  687471ms
+Values saved to csv/Async.csv
+Time Of Execution :  687471ms
